@@ -7,15 +7,15 @@ uid: exam.mb-220
 displayName: MB-220
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月19日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月19日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
-  此考试的候选人是具有市场营销专业知识的 Microsoft Dynamics 365 客户参与职能顾问。候选人负责实施吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递以及提供营销见解的解决方案。
+  此考试的候选人是具有市场营销专业知识的 Dynamics 365 客户参与职能顾问。候选人负责实施吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递以及提供营销见解的解决方案。
 
-  候选人负责配置和扩展核心营销应用程序，包括电子邮件营销，设置，交互式客户旅程，带有个性化体验的潜在客户培训，LinkedIn 集成，活动，客户意见，登陆页面，细分和评分以及维护通用数据保护监管(GDPR)合规。
+  候选人负责配置和扩展核心营销应用程序，包括电子邮件营销，设置，交互式客户旅程，带有个性化体验的潜在客户培训，LinkedIn 集成，活动，调查，登陆页面，细分和评分以及维护通用数据保护监管(GDPR)合规。
 
-  考生应具备一些营销原理知识和营销应用程序在与 Microsoft Dynamics 365 应用程序套件的关系中的作用，包括与 Microsoft Dynamics 365 和 Office 365 应用程序的集成。考生应了解行业术语，优先事项，共同举措，标准，方法和最佳实践。
+  考生应具备一些营销原理知识和营销应用程序在与 Dynamics 365 应用程序套件的关系中的作用，包括与 Dynamics 365 和 Office 365 应用程序的集成。考生应了解行业术语，优先事项，共同举措，标准，方法和最佳实践。
 subTitle: '此考试衡量您完成以下技术任务的能力：配置营销应用程序；管理细分和列表；创建和管理营销表单和页面；管理线索；创建和管理营销电子邮件；管理客户旅程；管理活动和网络研讨会；并配置和分析客户响应。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年5月19日更新。请下载下面的技能测量文档，看看将有何变化。
+- 此考试的内容于2020年5月19日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 配置市场营销应用(5-10%)
 - 管理细分市场和列表(10-15%)
 - 创建和管理营销表单和页面(10-15%)
@@ -53,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-marketing
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Dynamics 365 Marketing Functional Consultant Associate。'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Marketing Functional Consultant Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

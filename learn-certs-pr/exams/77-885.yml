@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Access 2010
+metadata:
+  title: 'Exam 77-885: Access 2010'
+  description: 'Exam 77-885: Access 2010'
+uid: exam.77-885
+displayName: 77-885
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  考试的典型候选人是需要创建或维护基本 Access 数据库的用户支持专业人员、培训师、教师、教授、数据库用户或数据库创建者。用户可以创建，修改和扩展基本数据库对象的功能，包括表，查询，表单和报表。用户还可以构建和修改数据库实体之间的基本关系，并可以在基本的 Access 功能和用法中指导其他人。Access 2010 用户通常可以有效地创建、修改和定制对象。该考生能够独立地在数据库项目上工作，并且经常可以回答其他人关于数据库的问题。考生应该知道并演示如何创建或修改简单的 Access 数据库并使用模板来创建基本对象。
+subTitle: 考试的典型候选人是需要创建或维护基本 Access 数据库的用户支持专业人员、培训师、教师、教授、数据库用户或数据库创建者。用户可以创建，修改和扩展基本数据库对象的功能，包括表，查询，表单和报表。用户还可以构建和修改数据库实体之间的基本关系，并可以在基本的 Access 功能和用法中指导其他人。Access 2010 用户通常可以有效地创建、修改和定制对象。该考生能够独立地在数据库项目上工作，并且经常可以回答其他人关于数据库的问题。考生应该知道并演示如何创建或修改简单的 Access 数据库并使用模板来创建基本对象。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- 管理 Access 环境
+- 构建表格
+- 建立表格
+- 创建和管理查询
+- 设计报告
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

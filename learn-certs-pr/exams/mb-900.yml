@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;’>该考试已于2019年12月31日停用。注意：考试将于美国中部标准时间晚上11:59停用</div>
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试已于 2019 年 12 月 31 日停用。可以进行替代考试 MB-901。有关更多信息，请访问 <a href="/learn/certifications/exams/mb-901">MB-901 考试详细信息页面。</a>.</div>
   <br/>
+  </div>
   此考试面向希望展示Microsoft Dynamics 365，Power Platform应用程序和云计算模型的基础知识的考生。本考试将涵盖一般采用Dynamics 365，Power Platform和云服务的注意事项和优势。此考试可视为Dynamics 365认证和培训的前身。
 
   本考试的考生应具备信息技术(IT)环境方面的一般知识或相关工作经验。考生还应对业务场景和解决IT项目的业务，法律和安全要求的经验有基本的了解。
@@ -27,7 +30,7 @@ skills:
 retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -38,7 +41,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Fundamentals。'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -46,7 +49,7 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -58,3 +61,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

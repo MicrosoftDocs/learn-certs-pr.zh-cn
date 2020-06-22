@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Access 2013
+metadata:
+  title: 'Exam 77-424: Access 2013'
+  description: 'Exam 77-424: Access 2013'
+uid: exam.77-424
+displayName: 77-424
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试面向对 Access 2013 环境有基本认识，能够独立完成各种任务的考生。他们应该了解并能展示 Access 2013 主要功能的正确应用。
+subTitle: 本考试面向对 Access 2013 环境有基本认识，能够独立完成各种任务的考生。他们应该了解并能展示 Access 2013 主要功能的正确应用。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJp
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-424&examname=Access%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-424
+locales:
+- en
+- zh-cn
+- zh-tw
+- es
+- ja
+- ko
+- nl
+levels:
+- beginner
+skills:
+- 创建和管理数据库 (20-25%)
+- 构建表格 (25-30%)
+- 创建查询 (15-20%)
+- 创建表单 (15-20%)
+- 创建报表 (15-20%)
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

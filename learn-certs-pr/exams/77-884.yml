@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Outlook 2010
+metadata:
+  title: 'Exam 77-884: Outlook 2010'
+  description: 'Exam 77-884: Outlook 2010'
+uid: exam.77-884
+displayName: 77-884
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  考生可以使用字符和段落格式设置设置电子邮件内容的格式，在邮件中创建或插入图形元素，例如图表、表格和 SmartArt 图形。他们还可以使用“密件抄送”字段将邮件发送给私密收件人。考生可以通过传入邮件创建联系人记录、任务和约会，能创建联系人组来简化与其他 Outlook 用户的通信。他们还能与其他 Outlook 用户共享计划信息。考生能计划涉及到人员和系统资源的会议，可向他人委托任务。核心用户个性化 Outlook 程序窗口和快速访问工具栏，以最大限度提升工作效率。他们将组织邮件和其他 Outlook 项目，显示邮件文件夹、日历、通讯簿和任务列表的不同视图。他们还可以显示多个日历，以及与其他 Outlook 用户共享日历。
+subTitle: 考生可以使用字符和段落格式设置设置电子邮件内容的格式，在邮件中创建或插入图形元素，例如图表、表格和 SmartArt 图形。他们还可以使用“密件抄送”字段将邮件发送给私密收件人。考生可以通过传入邮件创建联系人记录、任务和约会，能创建联系人组来简化与其他 Outlook 用户的通信。他们还能与其他 Outlook 用户共享计划信息。考生能计划涉及到人员和系统资源的会议，可向他人委托任务。核心用户个性化 Outlook 程序窗口和快速访问工具栏，以最大限度提升工作效率。他们将组织邮件和其他 Outlook 项目，显示邮件文件夹、日历、通讯簿和任务列表的不同视图。他们还可以显示多个日历，以及与其他 Outlook 用户共享日历。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWg
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-884&examname=Outlook%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-884
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 管理 Outlook 环境(15-20%)
+- 创建和格式化项目内容(25-30%)
+- 管理电子邮件(25-30%)
+- 管理联系人(15-20%)
+- 管理日历对象(15-20%)
+- 处理任务，备注和日记帐分录(5-10%)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

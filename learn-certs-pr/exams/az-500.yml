@@ -7,18 +7,24 @@ uid: exam.az-500
 displayName: AZ-500
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月20日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于 2020 年 7 月 29 日更新。请下载下面的考试技能大纲，以了解将会发生的变化。<br/><br/></div>
   </div>
 
-  此考试的考生是 Microsoft Azure 安全工程师，他们实施安全控制，维护安全状态，管理身份和访问，以及保护数据，应用程序和网络。考生通过使用各种安全工具来识别和修复漏洞，实施威胁防护并响应安全事件升级。作为 Microsoft Azure 安全工程师，考生通常作为致力于基于云的管理和安全的大型团队的一部分，并且还可以作为端到端基础架构的一部分来保护混合环境。
+  作为端到端基础结构的一部分，参加此考试的考生应具有主题方面的专业知识，以实施安全控制和威胁防护、管理身份和访问以及保护云端和混合环境中的数据、应用程序和网络。
 
-  考试的考生应具备较强的脚本和自动化技能，对网络，虚拟化和云N层架构的深刻理解，以及对云功能，Microsoft Azure 产品和服务以及其他 Microsoft 产品和服务的深入了解。
+  Azure 安全工程师的职责包括维护安全状况，使用各种安全工具识别和补救漏洞，实施威胁保护以及对安全事件升级做出响应。
+
+  Azure Security Engineer 通常是一个较大的团队的一部分，该团队致力于基于云端的管理和安全性，或者作为端到端基础结构的一部分的混合环境。
+
+  参加该考试的考生应具有较强的脚本编写和自动化技能；对网络、视觉效果和云端 N 层架构的深刻理解；对 Azure 的云端功能、产品和服务以及其他 Microsoft 产品和服务非常熟悉。
 subTitle: '该考试考查您完成以下技术任务的能力：管理身份和访问；实施平台保护；管理安全性操作；以及保护数据和应用程序。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
@@ -27,9 +33,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年5月20日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 考试内容将于 2020 年 7 月 29 日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 管理身份和访问(20-25%)
-- 实施平台保护(35-40%)
+- 实施恶意软件防护(35-40%)
 - 管理安全运行(15-20%)
 - 安全数据和应用(30-35%)
 roles:

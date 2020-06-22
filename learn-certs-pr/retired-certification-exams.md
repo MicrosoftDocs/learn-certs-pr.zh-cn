@@ -66,6 +66,10 @@ ms.author: micsullivan
 
 | 2020年8月31日停用 | |
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
@@ -163,11 +167,11 @@ ms.author: micsullivan
 | 70-089 | Designing, Implementing, and Managing Microsoft Systems Management Server 2003 | 2010年10月31日
 | 70-123 | Planning, Implementing, and Maintaining a Software Asset Management (SAM) Program | 2010年10月31日
 | 70-158 | Microsoft Forefront Identity & Access Management, Configuring | 2015年7月31日
-| 70-162 | TS:Forefront Protection for EndPoint and Server, Configuring | 2012年7月31日
-| 70-169 | TS:Windows Small Business Server 7, Configuring | 2013年7月31日
-| 70-177 | TS:Microsoft Project Server 2010, Configuring | 2015年7月31日
-| 70-178 | TS:Managing Projects with Microsoft Project 2010 | 2015年7月31日
-| 70-181 | TS:Windows Embedded Compact 7 | 2013年7月31日
+| 70-162 | TS: Forefront Protection for EndPoint and Server, Configuring | 2012年7月31日
+| 70-169 | TS: Windows Small Business Server 7, Configuring | 2013年7月31日
+| 70-177 | TS: Microsoft Project Server 2010, Configuring | 2015年7月31日
+| 70-178 | TS: Managing Projects with Microsoft Project 2010 | 2015年7月31日
+| 70-181 | TS: Windows Embedded Compact 7 | 2013年7月31日
 | 70-210 | Installing, Configuring, and Administering Microsoft Windows 2000 Professional | 2008
 | 70-214 | Implementing and Administering Security in a Microsoft Windows 2000 Network | 2008
 | 70-215 | Installing, Configuring, and Administering Microsoft Windows 2000 Server | 2008
@@ -188,11 +192,11 @@ ms.author: micsullivan
 | 70-230 | Designing and Implementing Solutions with Microsoft BizTalk Server 2000, Enterprise Edition | 2008
 | 70-232 | Implementing and Maintaining Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies and Microsoft Application Center 2000 | 2008
 | 70-234 | Designing and Implementing Solutions with Microsoft Commerce Server 2000 | 2008
-| 70-235 | TS:Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 | 2011年6月30日
-| 70-236 | TS:Exchange Server 2007, Configuring | 2012年9月30日
+| 70-235 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 | 2011年6月30日
+| 70-236 | TS: Exchange Server 2007, Configuring | 2012年9月30日
 | 70-237 | Pro: Designing Messaging Solutions with Microsoft Exchange Server 2007 | 2012年9月30日
 | 70-238 | Pro: Deploying Messaging Solutions with Microsoft Exchange Server 2007 | 2012年9月30日
-| 70-241 | TS:Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 R2 | 2011年6月30日
+| 70-241 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 R2 | 2011年6月30日
 | 70-243 | Administering and Deploying System Center 2012 Configuration Manager | 2017年7月31日
 | 70-244 | Supporting and Maintaining a Microsoft Windows NT Server 4.0 Network | 2008
 | 70-262 | Microsoft Office Live Communications Server 2005 – Implementing, Managing, and Troubleshooting | 2010年10月31日
@@ -226,26 +230,26 @@ ms.author: micsullivan
 | 70-337 | Enterprise Voice & Online Services with Microsoft Lync Server 2013 | 2016年3月30日
 | 70-340 | Implementing Security for Applications with Microsoft Visual C# .NET | 2009年3月31日
 | 70-350 | Implementing Microsoft Internet Security and Acceleration (ISA) Server 2004 | 2010年10月31日
-| 70-351 | TS:Microsoft Internet Security and Acceleration Server 2006, Configuring | 2011年3月31日
+| 70-351 | TS: Microsoft Internet Security and Acceleration Server 2006, Configuring | 2011年3月31日
 | 70-354 | Universal Windows Platform – App Architecture and UX/UI | 2017年9月30日
 | 70-355 | Universal Windows Platform – App Data, Services, and Coding Patterns | 2017年9月30日
 | 70-383 | Recertification for MCSE: SharePoint | 2017年3月31日
 | 70-384 | Recertification for MCSE: Communication | 2017年3月31日
 | 70-385 | Recertification for MCSE: Messaging | 2017年3月31日
-| 70-400 | TS:Microsoft System Center Operations Manager 2007, Configuring | 2013年7月31日
-| 70-401 | TS:Microsoft System Center Configuration Manager 2007, Configuring | 2013年7月31日
-| 70-403 | TS:System Center Virtual Machine Manager 2008, Configuring | 2011年9月30日
+| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013年7月31日
+| 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 2013年7月31日
+| 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 2011年9月30日
 | 70-415 | Implementing a Desktop Infrastructure | 2016年1月31日
 | 70-416 | Implementing Desktop Application Environments | 2016年1月31日
-| 70-431 | TS:Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 2011年6月30日
+| 70-431 | TS: Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 2011年6月30日
 | 70-432 | Microsoft SQL Server 2008, Implementation and Maintenance | 2016年7月31日
-| 70-433 | TS:Microsoft SQL Server 2008, Database Development | 2015年7月31日
+| 70-433 | TS: Microsoft SQL Server 2008, Database Development | 2015年7月31日
 | 70-441 | PRO: Designing Database Solutions by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-442 | PRO: Designing and Optimizing Data Access by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-443 | PRO: Designing a Database Server Infrastructure by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | 2011年6月30日
-| 70-444 | TS:Bing Maps Platform, Application Development | 2011年12月31日
-| 70-445 | TS:Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011年6月30日
+| 70-444 | TS: Bing Maps Platform, Application Development | 2011年12月31日
+| 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011年6月30日
 | 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-447 | UPGRADE: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-448 | Microsoft SQL Server 2008, Business Intelligence ‒ Development and Maintenance | 2016年7月31日
@@ -270,31 +274,31 @@ ms.author: micsullivan
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 2016年9月30日
 | 70-494 | Recertification for MCSD: Web Applications | 2017年3月31日
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 2017年3月31日
-| 70-500 | TS:Microsoft Windows Mobile 5.0, Implementing and Managing | 2011年3月31日
-| 70-501 | TS:Windows Server 2003 Hosted Environments, Configuration and Management | 2010年10月31日
-| 70-502 | TS:Microsoft .NET Framework 3.5 - Windows Presentation Foundation | 2013年7月31日
-| 70-503 | TS:Microsoft .NET Framework 3.5 - Windows Communication Foundation | 2013年7月31日
-| 70-504 | TS:Microsoft .NET Framework 3.5 – Workflow | 2013年7月31日
-| 70-505 | TS:Microsoft .NET Framework 3.5, Windows Forms Application Development | 2013年7月31日
-| 70-506 | TS:Silverlight 4, Development | 2014年7月31日
-| 70-510 | TS:Visual Studio 2005 Team Foundation Server | 2011年3月31日
-| 70-511 | TS:Windows Applications Development with Microsoft .NET Framework 4 | 2016年7月31日
-| 70-512 | TS:Visual Studio Team Foundation Server 2010, Administration | 2014年7月31日
-| 70-513 | TS:Windows Communication Foundation Development with Microsoft .NET Framework 4 | 2016年7月31日
-| 70-515 | TS:Web Applications Development with Microsoft .NET Framework 4 | 2016年7月31日
-| 70-516 | TS:Accessing Data with Microsoft .NET Framework 4 | 2016年7月31日
+| 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 2011年3月31日
+| 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 2010年10月31日
+| 70-502 | TS: Microsoft .NET Framework 3.5 - Windows Presentation Foundation | 2013年7月31日
+| 70-503 | TS: Microsoft .NET Framework 3.5 - Windows Communication Foundation | 2013年7月31日
+| 70-504 | TS: Microsoft .NET Framework 3.5 – Workflow | 2013年7月31日
+| 70-505 | TS: Microsoft .NET Framework 3.5, Windows Forms Application Development | 2013年7月31日
+| 70-506 | TS: Silverlight 4, Development | 2014年7月31日
+| 70-510 | TS: Visual Studio 2005 Team Foundation Server | 2011年3月31日
+| 70-511 | TS: Windows Applications Development with Microsoft .NET Framework 4 | 2016年7月31日
+| 70-512 | TS: Visual Studio Team Foundation Server 2010, Administration | 2014年7月31日
+| 70-513 | TS: Windows Communication Foundation Development with Microsoft .NET Framework 4 | 2016年7月31日
+| 70-515 | TS: Web Applications Development with Microsoft .NET Framework 4 | 2016年7月31日
+| 70-516 | TS: Accessing Data with Microsoft .NET Framework 4 | 2016年7月31日
 | 70-517 | Recertification for MCSD: SharePoint Applications | 2017年3月31日
 | 70-521 | Upgrade: Transition your MCPD .NET Framework 3.5 Windows Developer Skills to MCPD .NET Framework 4 Windows Applications Developer | 2014年7月31日
 | 70-523 | Upgrade: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 2014年7月31日
-| 70-526 | TS:Microsoft .NET Framework 2.0 – Windows-Based Client Development | 2011年6月30日
-| 70-528 | TS:Microsoft .NET Framework 2.0 – Web-Based Client Development | 2011年6月30日
-| 70-529 | TS:Microsoft .NET Framework 2.0 – Distributed Application Development | 2011年6月30日
-| 70-536 | TS:Microsoft .NET Framework – Application Development Foundation | 2013年7月31日
-| 70-540 | TS:Microsoft Windows Mobile 5.0 – Application Development | 2011年3月31日
-| 70-541 | TS:Microsoft Windows SharePoint Services 3.0 – Application Development | 2011年6月30日
-| 70-542 | TS:Microsoft Office SharePoint Server 2007 - Application Development | 2013年1月31日
-| 70-543 | TS:Visual Studio 2005 Tools for Office | 2011年3月31日
-| 70-545 | TS:Microsoft Visio 2007, Application Development | 2013年1月31日
+| 70-526 | TS: Microsoft .NET Framework 2.0 – Windows-Based Client Development | 2011年6月30日
+| 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 2011年6月30日
+| 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 2011年6月30日
+| 70-536 | TS: Microsoft .NET Framework – Application Development Foundation | 2013年7月31日
+| 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development | 2011年3月31日
+| 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development | 2011年6月30日
+| 70-542 | TS: Microsoft Office SharePoint Server 2007 - Application Development | 2013年1月31日
+| 70-543 | TS: Visual Studio 2005 Tools for Office | 2011年3月31日
+| 70-545 | TS: Microsoft Visio 2007, Application Development | 2013年1月31日
 | 70-547 | PRO: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-548 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-549 | PRO: Designing and Developing Enterprise Applications by Using the Microsoft .NET Framework | 2011年6月30日
@@ -302,13 +306,13 @@ ms.author: micsullivan
 | 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
 | 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
-| 70-555 | TS:Microsoft Office Groove 2007, Configuring | 2011年6月30日
-| 70-556 | TS:Microsoft Office PerformancePoint Server 2007, Applications | 2011年6月30日
-| 70-557 | TS:Microsoft Forefront Client and Server, Configuring | 2011年6月30日
+| 70-555 | TS: Microsoft Office Groove 2007, Configuring | 2011年6月30日
+| 70-556 | TS: Microsoft Office PerformancePoint Server 2007, Applications | 2011年6月30日
+| 70-557 | TS: Microsoft Forefront Client and Server, Configuring | 2011年6月30日
 | 70-558 | UPGRADE: MCAD Skills to MCTS Windows Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-559 | UPGRADE: MCAD Skills to MCTS Web Applications by Using the Microsoft .NET Framework | 2011年6月30日
-| 70-561 | TS:Microsoft .NET Framework 3.5, ADO.NET Application Development | 2013年7月31日
-| 70-562 | TS:Microsoft .NET Framework 3.5, ASP.NET Application Development | 2013年7月31日
+| 70-561 | TS: Microsoft .NET Framework 3.5, ADO.NET Application Development | 2013年7月31日
+| 70-562 | TS: Microsoft .NET Framework 3.5, ASP.NET Application Development | 2013年7月31日
 | 70-563 | Pro: Designing and Developing Windows Applications Using the Microsoft .NET Framework 3.5 | 2013年7月31日
 | 70-564 | PRO: Designing and Developing ASP.NET Applications Using the Microsoft .NET Framework 3.5 | 2013年7月31日
 | 70-565 | PRO: Designing and Developing Enterprise Applications Using the Microsoft .NET Framework 3.5 | 2013年7月31日
@@ -316,58 +320,58 @@ ms.author: micsullivan
 | 70-567 | UPGRADE: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 2012年7月31日
 | 70-568 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 | 2012年7月31日
 | 70-569 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 2 | 2012年7月31日
-| 70-571 | TS:Microsoft Windows Embedded CE 6.0 Application Development | 2013年7月31日
-| 70-573 | TS:Microsoft SharePoint 2010, Application Development | 2016年7月31日
+| 70-571 | TS: Microsoft Windows Embedded CE 6.0 Application Development | 2013年7月31日
+| 70-573 | TS: Microsoft SharePoint 2010, Application Development | 2016年7月31日
 | 70-576 | PRO: Designing and Developing Microsoft SharePoint 2010 Applications | 2016年7月31日
-| 70-577 | TS:Microsoft Windows Embedded Standard 2009, Development | 2013年7月31日
-| 70-579 | TS:Windows Mobile 6.5, Configuring | 2011年12月31日
-| 70-580 | TS:Windows Mobile 6.5, Application Development | 2011年12月31日
-| 70-582 | TS:Windows Embedded Standard 7 for Developers | 2014年7月31日
+| 70-577 | TS: Microsoft Windows Embedded Standard 2009, Development | 2013年7月31日
+| 70-579 | TS: Windows Mobile 6.5, Configuring | 2011年12月31日
+| 70-580 | TS: Windows Mobile 6.5, Application Development | 2011年12月31日
+| 70-582 | TS: Windows Embedded Standard 7 for Developers | 2014年7月31日
 | 70-583 | PRO: Designing and Developing Microsoft Azure Applications | 2014年7月31日
-| 70-595 | TS:Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015年7月31日
+| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015年7月31日
 | 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014年9月30日
-| 70-620 | TS:Configuring Microsoft Windows Vista Client | 2013年7月31日
+| 70-620 | TS: Configuring Microsoft Windows Vista Client | 2013年7月31日
 | 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011年3月31日
 | 70-622 | Pro: Microsoft Desktop Support – ENTERPRISE | 2013年7月31日
 | 70-623 | Pro: Microsoft Desktop Support – CONSUMER | 2013年7月31日
-| 70-624 | TS:Deploying and Maintaining Windows Vista Client and 2007 Microsoft Office System Desktops | 2010年10月31日
+| 70-624 | TS: Deploying and Maintaining Windows Vista Client and 2007 Microsoft Office System Desktops | 2010年10月31日
 | 70-625 | Connected Home Integrator | 2012年7月31日
 | 70-626 | Consumer Sales Specialist | 2011年6月30日
-| 70-631 | TS:Microsoft Windows SharePoint Services 3.0, Configuring | 2011年3月31日
-| 70-632 | TS:Managing Projects with Microsoft Office Project 2007, Managing Projects | 2013年1月31日
-| 70-633 | TS:Microsoft Office Project Server 2007, Managing Projects | 2013年1月31日
+| 70-631 | TS: Microsoft Windows SharePoint Services 3.0, Configuring | 2011年3月31日
+| 70-632 | TS: Managing Projects with Microsoft Office Project 2007, Managing Projects | 2013年1月31日
+| 70-633 | TS: Microsoft Office Project Server 2007, Managing Projects | 2013年1月31日
 | 70-634 | Pro: Microsoft Office Project Server 2007, Managing Projects and Programs | 2013年1月31日
-| 70-635 | TS:Microsoft Deployment Toolkit 2008, Desktop Deployment | 2013年7月31日
-| 70-639 | TS:Microsoft Office Project Server 2007, Configuring | 2013年1月31日
-| 70-640 | TS:Windows Server 2008 Active Directory, Configuring | 2017年7月31日
-| 70-642 | TS:Windows Server 2008 Network Infrastructure, Configuring | 2017年7月31日
-| 70-643 | TS:Windows Server 2008 Applications Infrastructure, Configuring | 2015年7月31日
+| 70-635 | TS: Microsoft Deployment Toolkit 2008, Desktop Deployment | 2013年7月31日
+| 70-639 | TS: Microsoft Office Project Server 2007, Configuring | 2013年1月31日
+| 70-640 | TS: Windows Server 2008 Active Directory, Configuring | 2017年7月31日
+| 70-642 | TS: Windows Server 2008 Network Infrastructure, Configuring | 2017年7月31日
+| 70-643 | TS: Windows Server 2008 Applications Infrastructure, Configuring | 2015年7月31日
 | 70-646 | Pro: Windows Server 2008, Server Administrator | 2017年7月31日
 | 70-647 | Pro: Windows Server 2008, Enterprise Administrator | 2015年7月31日
 | 70-648 | Upgrading your MCSA on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2013年7月31日
-| 70-649 | TS:Upgrading Your MCSE on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2015年7月31日
-| 70-652 | TS:Windows Server Virtualization, Configuring | 2011年9月30日
+| 70-649 | TS: Upgrading Your MCSE on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2015年7月31日
+| 70-652 | TS: Windows Server Virtualization, Configuring | 2011年9月30日
 | 70-653 | Windows Small Business Server 2008, Configuring | 2012年7月31日
-| 70-654 | TS:Windows Essential Business Server 2008, Configuring | 2011年6月30日
-| 70-655 | TS:Windows Vista and Server Operating Systems, Pre-Installing for OEMs | 2011年6月30日
-| 70-656 | TS:Microsoft Desktop Optimization Pack, Configuring | 2013年7月31日
-| 70-658 | TS:System Center Data Protection Manager 2007, Configuring | 2013年7月31日
-| 70-659 | TS:Windows Server 2008 R2, Server Virtualization | 2015年7月31日
-| 70-660 | TS:Windows Internals | 2013年7月31日
-| 70-662 | TS:Microsoft Exchange Server 2010, Configuring | 2016年1月31日
+| 70-654 | TS: Windows Essential Business Server 2008, Configuring | 2011年6月30日
+| 70-655 | TS: Windows Vista and Server Operating Systems, Pre-Installing for OEMs | 2011年6月30日
+| 70-656 | TS: Microsoft Desktop Optimization Pack, Configuring | 2013年7月31日
+| 70-658 | TS: System Center Data Protection Manager 2007, Configuring | 2013年7月31日
+| 70-659 | TS: Windows Server 2008 R2, Server Virtualization | 2015年7月31日
+| 70-660 | TS: Windows Internals | 2013年7月31日
+| 70-662 | TS: Microsoft Exchange Server 2010, Configuring | 2016年1月31日
 | 70-663 | PRO: Designing and Deploying Messaging Solutions with Microsoft Exchange | 2016年1月31日
-| 70-664 | TS:Microsoft Lync Server 2010, Configuring | 2013年7月31日
+| 70-664 | TS: Microsoft Lync Server 2010, Configuring | 2013年7月31日
 | 70-665 | PRO: Microsoft Lync Server 2010, Administrator | 2013年7月31日
-| 70-667 | TS:Microsoft SharePoint 2010, Configuring | 2016年7月31日
+| 70-667 | TS: Microsoft SharePoint 2010, Configuring | 2016年7月31日
 | 70-668 | PRO: Microsoft SharePoint 2010 Administrator | 2016年7月31日
-| 70-669 | TS:Windows Server 2008, R2, Desktop Virtualization | 2015年7月31日
+| 70-669 | TS: Windows Server 2008, R2, Desktop Virtualization | 2015年7月31日
 | 70-671 | Designing and Providing Microsoft Volume Licensing Solutions to Small and Medium Organizations | 2015年1月31日
 | 70-672 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2015年1月31日
-| 70-673 | TS:Designing, Assessing, and Optimizing Software Asset Management (SAM) | 2017年3月31日
+| 70-673 | TS: Designing, Assessing, and Optimizing Software Asset Management (SAM) | 2017年3月31日
 | 70-676 | FAST Enterprise Search Platform, Developing | 2013年1月31日
-| 70-681 | TS:Windows 7 and Office 2010, Deploying | 2015年7月31日
+| 70-681 | TS: Windows 7 and Office 2010, Deploying | 2015年7月31日
 | 70-682 | Pro: Upgrading to Windows 7 MCITP Enterprise Desktop Support Technician | 2014年7月31日
-| 70-683 | TS:Windows 7, Preinstalling for OEMs | 2013年7月31日
+| 70-683 | TS: Windows 7, Preinstalling for OEMs | 2013年7月31日
 | 70-684 | OEM Reseller | 2014年7月31日
 | 70-687 | Configuring Windows 8.1 | 2016年12月31日
 | 70-688 | Supporting Windows 8.1 | 2016年12月31日
@@ -397,21 +401,21 @@ ms.author: micsullivan
 | 74-338 | Lync 2013 Depth Support Engineer | 2016年3月30日
 | 74-353 | Windows UX Design | 2015年1月31日
 | 74-404 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2012年5月31日
-| 74-544 | TS:Bing Maps Platform, Application Development | 2011年12月31日
+| 74-544 | TS: Bing Maps Platform, Application Development | 2011年12月31日
 | 74-674 | Delivering Business Value Planning Services | 2015年7月31日
 | 74-675 | Microsoft Response Point, Configuring | 2011年6月30日
-| 74-676 | TS:Fast Enterprise Search Platform, Developing | 2012年7月31日
+| 74-676 | TS: Fast Enterprise Search Platform, Developing | 2012年7月31日
 | 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017年12月31日
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013年7月31日
 | 74-697 | OEM Preinstallation | 2016年1月31日
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010年10月31日
 | 77-891 | Office 365| 2014年12月31日
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011年9月30日
-| 88-961 | MCM:SharePoint Server 2010: 第1周| 2013年8月25日
-| 88-962 | MCM:SharePoint Server 2010: 第2周| 2013年8月25日
-| 88-963 | MCM:SharePoint Server 2010: 第3周| 2013年8月25日
-| 88-972 | MCM:SharePoint Server 2010: Lab Exam | 2013年8月25日
-| 88-973 | MCM:SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
+| 88-961 | MCM: SharePoint Server 2010: 第1周| 2013年8月25日
+| 88-962 | MCM: SharePoint Server 2010: 第2周| 2013年8月25日
+| 88-963 | MCM: SharePoint Server 2010: 第3周| 2013年8月25日
+| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 2013年8月25日
+| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014年1月1日

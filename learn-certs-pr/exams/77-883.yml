@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'MOS: PowerPoint 2010'
+metadata:
+  title: 'Exam 77-883: MOS: PowerPoint 2010'
+  description: 'Exam 77-883: MOS: PowerPoint 2010'
+uid: exam.77-883
+displayName: 77-883
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  考试的典型候选人是需要在功能和功能级别导航 PowerPoint 2010 的学生，办公室工作人员或讲师。
+
+  核心 PowerPoint 2010 用户精通生产力工具，经常与项目中的其他人协作，并对其工作环境进行个性化处理以提高效率。考生应该了解并演示如何制作或制作有效，实用的幻灯片。
+subTitle: 考试的典型候选人是需要在功能和功能级别导航 PowerPoint 2010 的学生，办公室工作人员或讲师。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 管理 PowerPoint 环境
+- 创建幻灯片演示文稿
+- 使用图形和多媒体元素
+- 创建图表和表格
+- 应用过渡和动画
+- 合作进行演示
+- 准备演示文稿以便交付
+- 发表演示
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

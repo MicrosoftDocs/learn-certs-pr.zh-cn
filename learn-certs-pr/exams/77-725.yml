@@ -1,19 +1,28 @@
 ### YamlMime:Examination
 title: 'Word 2016: Core Document Creation, Collaboration and Communication'
 metadata:
-  title: '考试 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
-  description: '考试 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
+  title: 'Exam 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
+  description: 'Exam 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
 uid: exam.77-725
 displayName: 77-725
-summary: "成功通过 Word 2016 考试的考生对 Word 环境和独立完成任务的能力有基本的了解。他们通过为各种目的和情况创建和编辑两到三页的文档来演示 Word 2016 主要功能的正确应用。文档示例包括有专业外观的报告、多分栏的简报、简历和商业信函。 \n\n微软办公专家（MOS）2016认证考试引入了一种新的实践式考试形式，改进了对考生的 MOS 2016 课题的知识、技能和能力的考察&#58;\n- MOS 2016 考试任务说明通常不像以前的版本一样包括命令名称。例如，避免使用函数名称并用描述符取代。这意味着考生必须了解程序功能的目的和常用用法，才能成功完成每个课题中的任务。\n- MOS 2016 考试格式合并了多个课题。\n"
+summary: |+
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  成功通过 Word 2016 考试的考生对 Word 环境和独立完成任务的能力有基本的了解。他们通过为各种目的和情况创建和编辑两到三页的文档来演示 Word 2016 主要功能的正确应用。文档示例包括有专业外观的报告、多分栏的简报、简历和商业信函。
+
+  Microsoft Office Specialist (MOS) 2016认证考试引入了一种新的实践式考试形式，改进了对考生的 MOS 2016 课题的知识、技能和能力的考察：
+  MOS 2016 考试任务说明通常不像以前的版本一样包括命令名称。例如，避免使用函数名称并用描述符取代。这意味着考生必须了解程序功能的目的和常用用法，才能成功完成每个课题中的任务。
+  - MOS 2016 考试格式合并了多个课题。
 subTitle: 成功通过 Word 2016 考试的考生对 Word 环境和独立完成任务的能力有基本的了解。他们通过为各种目的和情况创建和编辑两到三页的文档来演示 Word 2016 主要功能的正确应用。文档示例包括有专业外观的报告、多分栏的简报、简历和商业信函。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
+- bg-bg
 - zh-cn
 - zh-tw
 - de
@@ -33,6 +42,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 创建和管理文档 (25-30%)
 - 设置文本、段落和小节的格式 (25-30%)
 - 创建表格和列表 (20-25%)
@@ -54,7 +64,8 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

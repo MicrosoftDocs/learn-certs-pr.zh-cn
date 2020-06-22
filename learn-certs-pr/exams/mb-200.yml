@@ -1,30 +1,33 @@
 ### YamlMime:Examination
 title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
-  title: '考试 MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  description: '考试 MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  </div>
+
   本考试的考生是对企业已授权产品的特性和功能有访问权限的功能顾问。作为功能顾问，考生了解各个版本的捆绑特性，但并非主要使用这些捆绑产品进行工作。
-
-  <br/>
-
 
   考生主要负责配置系统以满足客户需求，执行与新特性和功能的落实相关的设计任务，以及落实和测试系统更改。
 
-
   考生为解决方案规划功能设计，实施应用程序生命周期管理 (ALM) 流程，从传统和外部系统迁移数据，将 Power 平台与其他系统集成，以及管理 Power 平台环境。
-subTitle: 该考试衡量您完成以下技术任务的能力：执行发现，计划和分析；管理用户体验设计；管理实体和数据；实施安全；实施整合；以及执行解决方案部署和测试。
+subTitle: '该考试衡量您完成以下技术任务的能力：执行发现，计划和分析；管理用户体验设计；管理实体和数据；实施安全；实施整合；以及执行解决方案部署和测试。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-200&examname=考试%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
+- 此考试的内容于2020年5月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 执行发现、规划和分析(5-10%)
 - 管理用户体验设计(20-25%)
 - 管理实体和数据(15-20%)
@@ -33,22 +36,19 @@ skills:
 - 执行解决方案部署和测试(25-30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
 products:
 - dynamics
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -66,18 +66,22 @@ resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重新考试
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

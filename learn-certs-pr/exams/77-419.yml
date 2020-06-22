@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft SharePoint 2013
+metadata:
+  title: 'Exam 77-419: Microsoft SharePoint 2013'
+  description: 'Exam 77-419: Microsoft SharePoint 2013'
+uid: exam.77-419
+displayName: 77-419
+summary: |-
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><strong>此考试于2020年6月30日停用。可能会有替代考试。如需了解更多信息，请访问我们的博客如需了解更多信息，请访问我们的博客：<a href='https://www.microsoft.com/en-us/learning/community.aspx'>https://www.microsoft.com/en-us/learning/community.aspx</a> 并查看我们的考试停用帖子。注意&#58; 考试将于美国中部标准时间晚上11&#58;59停用。<br/><br/></strong></div>
+  </div>
+
+  Microsoft SharePoint 2013 考试的考生应对 SharePoint 环境有透彻的认识，应能执行所有网站级任务。他们应该了解 SharePoint 2013 的主要网站、库和列表功能，并能展示自身正确应用这些功能的能力。考生应能优化和自定义 SharePoint 网站，从而提供结构、解决问题、促进协作、提高生产力。应用示例包括管理列表权限、在快速启动中添加内容、创建工作组网站和修改库视图。考生的角色包括技术支持人员、项目经理、团队主管、部门主管等。
+subTitle: Microsoft SharePoint 2013 考试的考生应对 SharePoint 环境有透彻的认识，应能执行所有网站级任务。他们应该了解 SharePoint 2013 的主要网站、库和列表功能，并能展示自身正确应用这些功能的能力。考生应能优化和自定义 SharePoint 网站，从而提供结构、解决问题、促进协作、提高生产力。应用示例包括管理列表权限、在快速启动中添加内容、创建工作组网站和修改库视图。考生的角色包括技术支持人员、项目经理、团队主管、部门主管等。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
+locales:
+- en
+levels:
+- beginner
+skills:
+- 创建内容并设置格式(25-30%)
+- 管理 SharePoint 站点 (30-35%)
+- 参与用户社区 (15-20%)
+- 配置和使用站点搜索结果 (15-20%)
+roles:
+- business-user
+products:
+- office-sp
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

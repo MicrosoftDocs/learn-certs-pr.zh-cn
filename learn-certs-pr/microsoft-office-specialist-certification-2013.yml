@@ -6,18 +6,18 @@ metadata:
 uid: certification.microsoft-office-specialist-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
   证明您获得特定 Office 程序的 Microsoft Office Specialist (MOS) 认证，具备充分利用 Office 所需的技能。Office 2013 结合云技术与 Web 技术，旨在扩展您创建和使用信息的方法；它还引进了全新的云应用程序模型，支持构建安全、灵活的应用程序 - 您可在熟悉的 Office 界面内找到所需的一切。
-  
-  为获得 Microsoft Office Specialist on Microsoft Office 2013 认证，必须通过这7个考试中的任何一个或所有这些考试，通过该特定课程的认证&#58;
+
+  为获得 Microsoft Office Specialist on Microsoft Office 2013 认证，必须通过这7个考试中的任何一个或所有这些考试，通过该特定课程的认证：
   - [Exam 77-418&#58; Microsoft Office Word 2013](/learn/certifications/exams/77-418)
   - [Exam 77-420&#58; Microsoft Office Excel 2013](/learn/certifications/exams/77-420)
   - [Exam 77-422&#58; Microsoft Office PowerPoint 2013](/learn/certifications/exams/77-422)
   - [Exam 77-423&#58; Microsoft Office Outlook 2013](/learn/certifications/exams/77-423)
   - [Exam 77-424&#58; Microsoft Office Access 2013](/learn/certifications/exams/77-424)
   - [Exam 77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419)
-  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421) 
+  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421)
 subTitle: 证明您获得特定 Office 程序的 Microsoft Office Specialist (MOS) 认证，具备充分利用 Office 所需的技能。Office 2013 结合云技术与 Web 技术，旨在扩展您创建和使用信息的方法；它还引进了全新的云应用程序模型，支持构建安全、灵活的应用程序 - 您可在熟悉的 Office 界面内找到所需的一切。
 levels:
 - beginner

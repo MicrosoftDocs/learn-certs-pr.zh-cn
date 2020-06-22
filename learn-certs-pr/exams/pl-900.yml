@@ -7,12 +7,10 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月1日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月7日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
-  此考试的考生是希望通过自动执行业务流程，分析数据以深入了解业务并通过创建简单的应用程序体验来提高工作效率的用户。
-
-  此考试涵盖以下内容&#58; 描述Power Platform组件&#58; Power Apps，Power BI，Microsoft Automate，通用数据服务(CDS)，连接器和AI构建器； 用Microsoft 365，Dynamics 365，Microsoft Azure和第三方服务描述跨云场景; 确定Power Platform的优势和功能；确定Power Platform组件的基本功能和商业价值；使用Microsoft Automate，Power BI和AI Builder实施简单的解决方案；并在无代码环境中创建一个基本应用。
+  此考试的考生希望通过了解 Power Platform 的功能，使用 Power Automate 自动化基本业务流程，使用 Power BI 执行基本数据分析以产生业务见解，通过创建简单的 Power Apps canvas 应用程序来更有效地行动来提高生产力的用户体验，无需使用代码即可创建功能强大的聊天机器人。
 subTitle: 该考试将衡量您了解Power Platform商业价值；了解Power Platform核心组件；展示Power BI的业务价值；以及展示Microsoft Automate的商业价值的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -27,12 +25,13 @@ providers:
 levels:
 - beginner
 skills:
-- 考试内容将于2020年5月1日更新。请下载下面的技能测量文档，看看将有何变化。
-- 了解Power Platform的商业价值(20-25%)
-- 了解Power Platform的核心组件(20-25%)
-- 展示Power BI的商业价值(15-20%)
-- 展示Power Apps的商业价值(20-25%)
-- 展示Power Automate 的商业价值(15-20%)
+- 此考试的内容于2020年5月7日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 描述 Power Platform 的业务价值 (20-25%)
+- 识别 Power Platform 的核心组件 (15-20%)
+- 描述 Power BI 的业务价值 (10-15%)
+- 描述 Power Apps 的业务价值 (15-20%)
+- 描述 Power Automate 的业务价值 (15-20%)
+- 展示 Power Virtual Agents 的业务价值 (10-15%)
 roles:
 - developer
 products:

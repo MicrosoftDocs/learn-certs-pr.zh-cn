@@ -7,13 +7,17 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月28日更新。NOTE：2020 年 4 月 15 日之前公布的更新将于 2020 年 9 月 15 日实施。现在规划于 5 月 28 日进行的更新只是措辞的次要更新；请下载下面评估文件的技能，以了解将会在 5 月 28 日发生什么变化 。</div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试的内容于 2020 年 5 月 28 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
-  此考试面向希望证明自己掌握 Cloud 服务基础知识以及如何通过 Microsoft Azure 提供这些服务的考生。该考试适用于具有非技术背景的考生，例如参与销售或购买基于 Cloud 的解决方案和服务的人员，或者参与基于 Cloud 的解决方案和服务的人员，以及具有技术背景并需要证明自己具有 Cloud 服务基础知识的人员。不要求具有 IT 技术经验，然而，一些一般性的 IT 知识或经验将是有益的。
+  参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。
 
-  本考试可以被看作是了解 Cloud 服务以及 Microsoft Azure 如何举例证明那些概念的可选的第一步。它可被看作是 Microsoft Azure 或 Microsoft Cloud 服务考试的一个先导。尽管这是有益的第一步，但在参加任何其他基于 Azure 的认证之前，验证基础水平知识、参加此考试并不是先决条件。
+  Azure Fundamentals 考试提供了证明了解云端概念、核心 Azure 服务、Azure 定价、SLA 和生命周期，以及具有云安全性、隐私权、合规性和信任方面的基础。
+
+  该考试适用于开始使用基于云端的解决方案和服务的人们。考生应该能够证明有关云端概念以及 Azure 服务、工作负荷、安全性、隐私权、定价和支持的基本知识。此外，您应该熟悉网络、存储、计算、应用程序支持和应用程序开发的概念。
+
+  Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
 subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及Azure定价和支持。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -31,26 +35,24 @@ locales:
 levels:
 - beginner
 skills:
-- '考试内容将于2020年5月28日更新。NOTE: 2020 年 4 月 15 日之前公布的更新将于 2020 年 9 月 15 日实施。现在规划于 5 月 28 日进行的更新只是措辞的次要更新；请下载下面评估文件的技能，以了解将会在 5 月 28 日发生什么变化 。'
-- 了解云概念(15-20%)
-- 了解核心 Azure 服务(30-35%)
-- 了解安全性、隐私、合规性和信任(25-30%)
-- 了解 Azure 定价和支持(20-25%)
+- 此考试的内容于 2020 年 5 月 28 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 描述云端概念 (15-20%)
+- 描述核心 Azure 服务 (30-35%)
+- 描述安全性、隐私权、合规性和信任 (25-30%)
+- 描述 Azure 定价服务等级协议和生命周期 (20-25%)
 roles:
 - developer
 products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Azure Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

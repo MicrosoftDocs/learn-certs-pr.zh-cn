@@ -7,7 +7,7 @@ uid: exam.az-301
 displayName: AZ-301
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>此考试的新版本 <a href="/learn/certifications/exams/az-304">AZ-304</a> 将于 2020 年 6 月 29 日推出。在2020年9月30日左右此考试停用之前，您可以参加此考试。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
   </div>
 
@@ -78,9 +78,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Azure Solutions Architect Expert.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

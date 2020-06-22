@@ -5,7 +5,7 @@ metadata:
   description: 'Course MS-700T00-A: Managing Microsoft Teams'
 uid: course.ms-700t00
 courseNumber: 'MS-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 什么是Microsoft Teams以及组件如何协同工作
@@ -52,7 +52,7 @@ outlineSection: |-
   - Microsoft Teams管理概述
 
 
-  #### 实验室&#58; 管理角色和创建团队
+  #### 实验室 &#58; 管理角色和创建团队
   - 准备团队角色和许可
   - 创建新的团队
 
@@ -65,7 +65,7 @@ outlineSection: |-
   - 为Microsoft Teams实现合规性
 
 
-  #### 实验室&#58; 为团队和内容配置安全性和合规性
+  #### 实验室 &#58; 为团队和内容配置安全性和合规性
   - 为Microsoft Teams实施治理和生命周期管理
   - 为Microsoft Teams实现安全性
   - 为Microsoft Teams实现合规性
@@ -79,7 +79,7 @@ outlineSection: |-
   - 部署和管理Microsoft Teams端点
 
 
-  #### 实验室&#58; Teams的环境准备工作
+  #### 实验室 &#58; Teams的环境准备工作
   - 计算网络能力
   - 评估配置文件
   - 提供团队资源
@@ -93,7 +93,7 @@ outlineSection: |-
   - 管理外部用户的访问
 
 
-  #### 实验室&#58; 管理Teams
+  #### 实验室 &#58; 管理Teams
   - 管理团队资源
   - 管理共享和访问
 
@@ -105,7 +105,7 @@ outlineSection: |-
   - 管理Teams应用程序的设置
 
 
-  #### 实验室&#58; 修改Teams的协作设置
+  #### 实验室 &#58; 修改Teams的协作设置
   - 配置频道和消息策略
   - 管理Teams应用程序设置
 
@@ -119,7 +119,8 @@ outlineSection: |-
   - 音频、视频和客户端问题的疑难解答
 
 
-  #### 实验室&#58; 修改Teams的通信设置
-  -配置会议策略
+  #### 实验室 &#58; 修改Teams的通信设置
+  - 配置会议策略
   - 管理Microsoft Teams的电话系统
   - 音频、视频和客户端问题的疑难解答
+

@@ -7,8 +7,8 @@ uid: exam.az-203
 displayName: AZ-203
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的新版本 <a href="/learn/certifications/exams/az-204">AZ-204</a> 于 2 月 24 日推出。在2020年8月31日左右此考试停用之前，您可以参加此考试。注意：考试将于美国中部标准时间晚上11&#58;59停用<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>该考试于 2020 年 5 月 31 日停止。注意&#58; 考试将于美国中部标准时间晚上11&#58;59停用<br/><br/></div>
   </div>
 
   这次考试的考生是 Azure 开发者，他们设计和构建云解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与云解决方案架构师、云数据库、云管理员和客户端合作，以实现解决方案。
@@ -33,7 +33,6 @@ providers:
 levels:
 - intermediate
 skills:
-- 此考试的新版本 AZ-204 于 2 月 24 日推出。在2020年8月31日左右此考试停用之前，您可以参加此考试。请下载下面的技能测量文档，查看关于变化的信息。
 - 开发 Azure 基础架构即服务计算解决方案(10-15%)
 - 开发 Azure 平台即服务计算解决方案(20-25%)
 - 开发 Azure 存储 (15-20%)
@@ -55,6 +54,7 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
+- uid: course.az-020t00
 - uid: course.az-203t01
 - uid: course.az-203t02
 - uid: course.az-203t03
@@ -75,9 +75,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Azure Developer Associate。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: course.20743
+courseNumber: '20743-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安装和配置 Windows Server 2016。
+- skill: 描述 Windows Server 2016 中的存储。
+- skill: 实施目录服务。
+- skill: 实施 Active Directory 联合身份验证服务 (AD FS)
+- skill: 描述网络。
+- skill: 实施 Hyper-V。
+- skill: 配置高级网络功能。
+- skill: 实施软件定义的网络。
+- skill: 实施远程访问。
+- skill: 部署和管理 Windows 和 Hyper-V 容器。
+- skill: 实施故障转移集群。
+- skill: 使用虚拟机实施故障转移集群。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-743
+summary: |-
+  此为期五天的讲师指导课程介绍如何实施和配置 Windows Server 2016 的新功能。本课程面向希望将其技术技能从 Windows Server 2008 或 Windows Server 2012 升级到 Windows Server 2016 的信息技术 (IT) 专业人员。本课程假定您具有与 Microsoft Certified Solutions Associate (MCSA) 等效的以前的 Windows Server 技术和技能的高水平知识：Windows Server 2008 或 Windows Server 2012 认证。
+
+  本课程不是产品升级课程，它详细介绍了将学生特定环境迁移和升级到 Windows Server 2016 的注意事项。相反，本课程提供与 Windows Server 2016 有关的学生现有 Windows Server 知识和技能的更新。
+
+  #### 受众概况
+  本课程适用于经验丰富的 Windows Server 2012 或 Windows Server 2008 系统管理员，在 Windows Server 2008 R2 或 Windows Server 2008 企业环境中具有实际经验的 IT 专业人员。此外，学生应该已经获得 Windows Server 2008 或 Windows Server 2012 的 MCSA 证书，或者他们应该具有同等的知识。 
+
+  此外，计划参加 Microsoft 认证解决方案专家 (MCSE) 考试的 IT 专业人员可能会对本课程感兴趣，作为 MCSA 考试的准备，这是 MCSE 专业的先决条件。
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备&#58;
+  - 两年或以上的部署和管理 Windows Server 2012 或 Windows Server 2008 环境的经验； NS 具有管理和维护日常 Windows Server 2012 或 Windows Server 2008 系统管理任务的经验。
+  - 具有 Windows 网络技术和实施方面的经验。
+  - 具有 Active Directory 技术和实施方面的经验。
+  - 具有 Windows Server 虚拟化技术和实施方面的经验。
+  - 与 Windows Server 2008 或 Windows Server 2012 的 MCSA 认证同等的知识。
+outlineSection: |-
+  ### 模块 1&#58; 安装和配置 Windows Server 2016
+  本模块说明如何安装和执行 Windows Server 2016 服务器的安装后配置。
+  #### 课程
+  - Windows Server 2016 导论
+  - 安装 Windows Server 2016
+  - 配置 Windows Server 2016
+  - 准备升级和迁移
+  - 迁移服务器角色和工作负载
+  - Windows Server 激活模型
+
+
+  #### 实验室 &#58; 安装和配置 Server Core
+  - 安装 Server Core
+  - 在 Windows Server 2016 Core 上完成安装后任务
+  - 执行远程管理
+
+  完成本课程后，学生将能够&#58;
+  - 说明 Windows Server 2016。
+  - 安装 Windows Server 2016
+  - 配置 Windows Server 2016。
+  - 准备升级和迁移。
+  - 迁移服务器角色和工作负载
+  - 描述 Windows Server 启动模型。
+
+
+  ### 模块 2&#58; Windows Server 2016 中的存储概述
+  本模块说明如何在 Windows Server 2016 中配置存储。
+  #### 课程
+  - Windows Server 2016 中的存储概述
+  - 实施 Data Deduplication
+  - 配置 iSCSI 存储
+  - 在 Windows Server 2016 中配置存储空间功能
+
+
+  #### 实验室 &#58; 实施和管理存储
+  - 实施文件服务器资源管理员 (FSRM)
+  - 实施 Data Deduplication
+  - 配置 iSCSI 存储
+
+  学完本模块后，学生将能够&#58;
+  - 说明 Windows Server 2016 中的存储。
+  - 实施 Data Deduplication
+  - 配置 iSCSI 存储
+  - 在 Windows Server 2016 中配置存储空间功能。
+
+
+  ### 模块 3&#58; 实施目录服务
+  本模块说明了如何实施目录服务功能。
+  #### 课程
+  - 部署 Active Directory 域控制器
+  - 实施服务账户
+  - Azure AD
+
+
+  #### 实验室 &#58; 实施和管理 AD DS
+  - 克隆域控制器
+  - 实施服务账户
+
+  学完本模块后，学生将能够&#58;
+  - 部署 AD DS 域控制器。
+  - 实施服务账户。
+  - 说明 Azure AD。
+
+
+  ### 模块 4&#58; 实施 AD FS
+  本模块说明了如何实施 AD FS 部署。
+  #### 课程
+  - AD FS 概述
+  - 部署 AD FS
+  - 为单一组织实施 AD FS
+  - 实施 Web Application Proxy
+  - 通过 Microsoft 在线服务实施 SSO
+
+
+  #### 实验室 &#58; 实施 AD FS
+  - 安装和配置 AD FS
+  - 为 AD FS 配置内部应用程序
+
+
+  #### 实验室 &#58; 实施 Web Application Proxy
+  - 实施 Web Application Proxy
+
+  学完本模块后，学生将能够&#58;
+  - 描述 AD FS。
+  - 部署 AD FS。
+  - 为单个组织实施 AD FS。
+  - 实施 Web Application Proxy。
+  - 通过 Microsoft 在线服务实施 SSO。
+
+
+  ### 模块 5&#58; 实施网络服务
+  本模块说明如何为动态主机配置协议 (DHCP) 配置高级功能以及如何配置 IP 地址管理 (IPAM)。
+  #### 课程
+  - 网络增强概述
+  - 实施 IPAM
+  - 使用 IPAM 管理 IP 地址空间
+
+
+  #### 实验室 &#58; 实施网络服务
+  - 配置 DNS 策略
+  - 配置 DHCP 故障转移
+  - 配置 IPAM
+
+  学完本模块后，学生将能够&#58;
+  - 描述网络增强功能。
+  - 实施 IP 地址管理。
+  - 使用 IPAM 管理 IP 地址空间。
+
+
+  ### 模块 6&#58; 实施 Hyper-V
+  本模块说明了如何安装和配置 Hyper-V 虚拟机。
+  #### 课程
+  - 在 Windows Server 2016 中配置 Hyper-V 角色
+  - 配置 Hyper-V 存储
+  - 配置 Hyper-V 网络
+  - 配置 Hyper-V 虚拟机
+
+
+  #### 实验室 &#58; 使用 Hyper-V 实施服务器虚拟化
+  - 安装 Hyper-V 服务器角色
+  - 配置虚拟网络
+  - 创建和配置虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 在 Windows Server 2016 中配置 Hyper-V 角色。
+  - 配置 Hyper-V 存储
+  - 配置 Hyper-V 网络
+  - 配置 Hyper-V 虚拟机。
+
+
+  ### 模块 7&#58; 配置高级联网功能
+  本模块说明如何实施高级网络基础结构。
+  #### 课程
+  - 概述高性能网络功能
+  - 配置高级 Hyper-V 网络功能
+
+
+  #### 实验室 &#58; 配置高级 Hyper-V 网络功能
+  - 创建和使用 Hyper-V 虚拟交换机
+  - 配置和使用虚拟交换机的高级功能
+
+  学完本模块后，学生将能够&#58;
+  - 描述高性能网络功能。
+  - 配置高级 Hyper-V 网络功能。
+
+
+  ### 模块 8&#58; 实施软件定义的网络
+  本模块说明了如何实施软件定义的网络。
+  #### 课程
+  - SDN 概述
+  - 实施网络虚拟化
+  - 实施 Network Controller
+
+
+  #### 实验室 &#58; 部署 Network Controller
+  - 准备部署 Network Controller
+  - 部署 Network Controller
+
+  学完本模块后，学生将能够&#58;
+  - 描述软件定义的网络。
+  - 实施网络虚拟化。
+  - 实施 Network Controller。
+
+
+  ### 模块 9&#58; 实施远程访问
+  本模块说明如何使用 DirectAccess 功能为远程用户配置联机能力。
+  #### 课程
+  - 远程访问概述
+  - 实施 DirectAccess
+  - 实施 VPN
+
+
+  #### 实验室 &#58; 实施 DirectAccess
+  - 使用开始使用向导配置 DirectAccess
+  - 测试 DirectAccess
+
+  学完本模块后，学生将能够&#58;
+  - 描述常见的远程访问解决方案和技术。
+  - 实现 DirectAccess。
+  - 实施 VPN。
+
+
+  ### 模块 10&#58; 部署和管理 Windows 和 Hyper-V 容器
+  本模块概述 Windows Server 2016 容器。此外，它还说明了如何在 Windows Server 2016 中部署、安装、配置和管理容器。
+  #### 课程
+  - 概述 Windows Server 2016 中的容器
+  - 准备容器
+  - 使用 Docker 安装、配置和管理容器
+
+
+  #### 实验室 &#58; 安装和配置容器
+  - 安装适用于 Windows Server 2016 的 Docker 企业版
+  - 安装和配置 IIS 容器
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 2016 中的容器。
+  - 说明如何部署容器。
+  - 说明如何使用 Docker 安装、配置和管理容器。
+
+
+  ### 模块 11&#58;实组故障转移集群
+  本模块说明了如何实施故障转移集群以为网络服务和应用程序提供高可用性。
+  #### 课程
+  - 故障转移集群概述
+  - 实施故障转移集群。
+  - 在故障转移集群上配置高可用性应用程序和服务
+  - 维护故障转移集群
+  - 实施延展式丛集
+
+
+  #### 实验室 &#58; 实现故障转移群集
+  - 配置 iSCSI 存储
+  - 配置故障转移集群
+  - 部署和配置高可用性文档服务器
+  - 验证高可用性文档服务器的部署
+  - 在故障转移集群上配置 CAU
+
+  学完本模块后，学生将能够&#58;
+  - 描述故障转移集群的概念。
+  - 实施故障转移集群。
+  - 在故障转移集群上配置高可用性应用程序和服务。
+  - 维护故障转移群集。
+  - 实施延展故障转移集群。
+
+
+  ### 模块 12&#58; 使用 Windows Server 2016 Hyper-V 实施故障转移群集
+  本模块说明了如何在故障转移集群中部署和管理 Hyper-V 虚拟机。
+  #### 课程
+  - 概述 Hyper-V Server 2016 与故障转移群集的集成
+  - 在故障转移集群上实施 Hyper-V 虚拟机
+  - 实施 Windows Server 2016 Hyper-V 虚拟机迁移
+  - 配置 Hyper-V 复本
+
+
+  #### 实验室 &#58; 使用 Windows Server 2016 Hyper-V 实施故障转移群集
+  - Hyper-V 故障转移集群测试环境
+  - 配置 Hyper-V 副本
+  - 为 Hyper-V 配置故障转移群集
+  - 配置高可用性虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 2016 Hyper-V 如何与故障转移集群整合。
+  - 在故障转移集群上实施 Hyper-V 虚拟机。
+  - 实施 Hyper-V 虚拟机迁移。
+  - 实施 Hyper-V 复本。
+

@@ -6,7 +6,7 @@ metadata:
 uid: certification.data-analyst-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。作为主题专家，Data Analyst 负责设计和构建可伸缩的数据模型，清理和转换数据，并启用高级分析功能，这些功能通过易于理解的数据可视化提供有意义的业务价值。
 subTitle: Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。
@@ -23,10 +23,15 @@ roles:
 type: role-based
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
 exams:
 - uid: exam.da-100
 resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
-  description: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
 
-  Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决 Solution Architect领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。
+  Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
 
-  Solution Architect具有Dynamics 365中Power Platform模型驱动的应用程序的功能和技术知识，例如Dynamics 365客户服务，Dynamics 365现场服务，Dynamics 365 Marketing和Dynamics 365 Sales，相关的Microsoft云解决方案以及其他第三方技术。Solution Architect 在整个参与过程中运用知识和经验。Solution Architect 执行主动性的和预防性的工作，以增加客户投资的价值并促进组织健康。该角色要求具有识别解决业务问题机会的能力。
+  Solution Architect具有Dynamics 365中Power Platform模型驱动的应用程序的功能和技术知识，例如 Dynamics 365客户服务，Dynamics 365现场服务，Dynamics 365 Marketing 和 Dynamics 365 Sales，相关的 Microsoft云解决方案以及其他第三方技术。Solution Architect 在整个参与过程中运用知识和经验。Solution Architect 执行主动性的和预防性的工作，以增加客户投资的价值并促进组织健康。该角色要求具有识别解决业务问题机会的能力。
 
-  Solution Architect 在Powers平台的功能和技术学科以及Dynamics 365中的模型驱动的应用程序方面拥有丰富的经验。Solution Architect 应该能够促进跨开发、配置、集成、基础架构、安全性、可用性、存储和变更管理的设计决策。该角色可以平衡项目的业务需求，同时满足功能和非功能需求。
-
-  <div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></div>
+  Solution Architect 在Power平台的功能和技术学科以及Dynamics 365中的模型驱动的应用程序方面拥有丰富的经验。Solution Architect 应该能够促进跨开发、配置、集成、基础架构、安全性、可用性、存储和变更管理的设计决策。该角色可以平衡项目的业务需求，同时满足功能和非功能需求。
 subTitle: '这项考试衡量您完成以下技术任务的能力：执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 执行解决方案构想和需求分析(30-35%)
 - 架构解决方案(45-50%)
 - 实施解决方案(20-25%)
@@ -42,7 +39,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

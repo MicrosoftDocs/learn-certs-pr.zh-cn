@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Excel 2013
+metadata:
+  title: 'Exam 77-420: Excel 2013'
+  description: 'Exam 77-420: Excel 2013'
+uid: exam.77-420
+displayName: 77-420
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  Microsoft Excel 2013 考试的核心级别考生应对 Excel 环境具有基本认识，并且具备独立完成任务的能力。他们应该了解并能展示 Excel 2013 主要功能的正确应用。这些考生应能创建和编辑适用于多种用途和场合、包含多个工作表的工作簿。示例包括具有专业外观的预算表、团队业绩图表、销售发票和锻炼记录。考生的角色包括学生、文字工作者、簿记员、讲师等。
+subTitle: Microsoft Excel 2013 考试的核心级别考生应对 Excel 环境具有基本认识，并且具备独立完成任务的能力。他们应该了解并能展示 Excel 2013 主要功能的正确应用。这些考生应能创建和编辑适用于多种用途和场合、包含多个工作表的工作簿。示例包括具有专业外观的预算表、团队业绩图表、销售发票和锻炼记录。考生的角色包括学生、文字工作者、簿记员、讲师等。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 创建和管理工作表和工作薄
+- 创建单元格和范围
+- 创建表格
+- 应用公式和函数
+- 创建图表和对象
+roles:
+- business-user
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

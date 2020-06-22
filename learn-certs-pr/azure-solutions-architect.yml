@@ -2,25 +2,34 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
+  description: 'Azure Solution Architect 设计并实施了可在 Microsoft Azure 上运行的解决方案，包括计算、网络、存储和安全性等方面。'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
-subTitle: Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Azure Solutions Architect Expert 认证的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
+
+  担任此职务的职责包括为利益相关者提供建议，并将业务需求转换为安全，可扩充且可靠的云端解决方案。
+
+  Azure Solutions Architect 与云端管理员、云端 DBA 和客户端合作以实施解决方案。
+
+  参加此认证的考生应该在 IT 运营的各个方面都具有先进的经验和知识，包括网络、视觉效果、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应精通以下 Azure 知识领域中的至少一个：管理、开发或 DevOps。
+subTitle: Azure Solution Architect 设计并实施了可在 Microsoft Azure 上运行的解决方案，包括计算、网络、存储和安全性等方面。
 levels:
 - advanced
 skills:
-- 部署和配置基础架构
+- 部署和配置基础设施
 - 实现工作负载和安全性
-- 创建和部署应用程序
-- 实施身份验证和保护数据
+- 创建和部署应用
+- 实现认证和安全数据
 - 开发云和 Azure 存储
-- 确定工作负荷要求
-- 身份和安全设计
+- 确定工作量要求
+- 设计身份和安全性
 - 设计数据平台解决方案
-- 设计业务连续性战略
+- 设计业务连续性策略
 - 部署，迁移和集成设计
-- 设计基础设施战略
+- 设计基础设施策略
 roles:
 - solution-architect
 type: role-based
@@ -71,21 +80,22 @@ exams:
 - uid: exam.az-300
 - uid: exam.az-301
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Azure Solutions Architect Expert。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
-- title: 支持认证
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

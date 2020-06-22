@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。
 subTitle: 面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。
@@ -32,13 +32,8 @@ products:
 - dynamics
 - dynamics-field-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
-- uid: course.mb-240t01
-- uid: course.mb-240t02
-- uid: course.mb-240t03
+- uid: course.mb-200t00
+- uid: course.mb-240t00
 paths:
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling

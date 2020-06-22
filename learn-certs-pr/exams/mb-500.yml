@@ -7,8 +7,8 @@ uid: exam.mb-500
 displayName: MB-500
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
   参加此考试的考生是使用Microsoft Dynamics 365中的Finance and Operations应用程序来实施和扩展应用程序以满足业务需求的开发人员。考生可以使用标准化的应用程序编码模式，可扩展的功能以及外部集成来提供可以完全实现的解决方案。
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看将有何变化。
+- 此考试的内容于2020年5月22日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 规划架构和解决方案设计(10-15%)
 - 应用开发人员工具(10-15%)
 - 设计和开发AOT元素(20-25%)
@@ -59,7 +59,7 @@ relatedCertifications:
     uid: certification.d365-finance-and-operations-apps-developer-associate
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Dynamics 365：Finance and Operations Apps Developer Associate.'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365：Finance and Operations Apps Developer Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

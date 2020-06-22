@@ -5,15 +5,18 @@ metadata:
   description: 'MO-201: Microsoft Excel Expert (Excel and Excel 2019)'
 uid: exam.mo-201
 displayName: MO-201
-summary: 获得此认证的个人拥有大约 150 个小时的教学经验和产品实践经验，已在行业专家层面证明其能力，并准备进入职场。他们可以展示如何以专家水平正确使用 Excel 的主要功能，并可以独立完成任务。
-subTitle: 该考试衡量针对各种特殊目的和情况创建、管理和分发专业电子表格的能力。考试涵盖自定义 Excel 环境以满足项目需求并提高生产效率的能力。专家级工作簿示例包括自定义业务模板、多轴财务图表、摊销表格以及清单计划。
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  考试涵盖自定义 Excel 环境以满足项目需求并提高生产效率的能力。专家级工作簿示例包括自定义业务模板、多轴财务图表、摊销表格以及库存计划。考生应在专家级演示 Excel 的主要功能的正确应用，并独立完成任务。
+subTitle: 该考试衡量针对各种特殊目的和情况创建、管理和分发专业电子表格的能力。考试涵盖自定义 Excel 环境以满足项目需求并提高生产效率的能力。专家级工作簿示例包括自定义业务模板、多轴财务图表、摊销表格以及库存计划。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE47RTC
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - advanced
 skills:
@@ -38,7 +41,8 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

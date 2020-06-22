@@ -2,14 +2,18 @@
 title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
+  description: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。'
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
-subTitle: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
+subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。'
 levels:
 - intermediate
 skills:
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 使用通用功能和实现工具
 - 配置安全性，进程和选项
 - 进行数据迁移
@@ -24,12 +28,8 @@ products:
 - dynamics
 - dynamics-finance-operations
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-320t01
-- uid: course.mb-320t02
-- uid: course.mb-320t03
+- uid: course.mb-300t00
+- uid: course.mb-320t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -46,20 +46,21 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
-- title: 支持认证
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

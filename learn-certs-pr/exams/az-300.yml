@@ -7,12 +7,18 @@ uid: exam.az-300
 displayName: AZ-300
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的新版本 <a href="/learn/certifications/exams/az-303">AZ-303</a> 将于 2020 年 6 月 29 日推出。在2020年9月30日左右此考试停用之前，您可以参加此考试。<br/><br/>此外，此考试内容将于 2020 年 6 月 2 日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的新版本 <a href="/learn/certifications/exams/az-303">AZ-303</a> 将于 2020 年 6 月 29 日推出。在 2020 年 9 月 30 日左右此考试停用之前，您可以参加此考试。<br/><br/>请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
   </div>
 
-  该考试的考生是 Azure Solution 架构师，他们提供咨询，并将业务需求转换成安全、可扩展和可靠的解决方案。考生应该具有涵盖 IT 操作各个方面的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据管理、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。考生必须精通 Azure 管理、Azure 开发和 DevOps，并具有至少一个领域的专家级技能。
-subTitle: '此考试考查您完成以下技术任务的能力：部署和配置基础架构；实施工作量和安全；创建和部署应用程序；实现身份验证和安全数据；以及开发云和Azure存储。'
+  参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
+
+  Azure 解决方案架构师的职责包括为利益相关者提供建议，并将业务需求转换为安全、可扩充且可靠的云端解决方案。
+
+  Azure 解决方案架构师与云端管理员，云端 DBA 和客户端合作以实施解决方案。
+
+  参加该考试的考生应具有 IT 运营各个方面的高级经验和知识，包括网络、视觉效果、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应精通以下 Azure 知识领域中的至少一个：管理、开发或 DevOps。
+subTitle: '此考试考查您完成以下技术任务的能力：部署和配置基础架构；实施工作量和安全；创建和部署应用程序；实现身份验证和安全数据；以及开发云和 Azure 存储。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,10 +31,10 @@ locales:
 levels:
 - advanced
 skills:
-- 此考试的新版本 AZ-303 将于 2020 年 6 月 29 日推出。在2020年9月30日左右此考试停用之前，您可以参加此考试。此外，此考试内容将于 2020 年 6 月 2 日更新。请下载下面的技能测量文档，看看将有何变化。
+- 此考试的新版本 AZ-303 将于 2020 年 6 月 29 日推出。在 2020 年 9 月 30 日左右此考试停用之前，您可以参加此考试。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 部署和配置基础设施 (40-45%)
-- 实现工作负载和安全 (25-30%)
-- 创建和部署 App (5-10%)
+- 实现工作负载和安全性 (25-30%)
+- 创建和部署应用 (5-10%)
 - 实现认证和安全数据(5-10%)
 - 开发云和 Azure 存储 (15-20%)
 retirementDate: 09/30/2020
@@ -78,9 +84,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Azure Solutions Architect Expert.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

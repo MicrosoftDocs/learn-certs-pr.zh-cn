@@ -1,81 +1,93 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals
+title: Microsoft Azure Fundamentals (1 Day)
 metadata:
-  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 了解一般的云计算概念
-- skill: 了解Microsoft Azure提供的核心服务
-- skill: 了解Microsoft Azure的安全性、隐私性、合规性和信任度
-- skill: 了解Microsoft可用的定价和支持模型
+- skill: 了解一般的云端计算概念
+- skill: 了解 Microsoft Azure 提供的核心服务
+- skill: 了解 Microsoft Azure 的安全性、隐私权、合规性和信任
+- skill: 了解 Microsoft 提供的定价和支持模型
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
-  本课程将提供有关云服务以及Microsoft Azure如何提供这些服务的基础知识。在继续学习Microsoft Azure或Microsoft云服务课程之前，可以将本课程作为学习云服务和Microsoft Azure的可选第一步。
-  本课程将涵盖一般的云计算概念，以及一般的云计算模型和服务，例如公共云、私有云和混合云，以及基础架构即服务（IaaS）、平台即服务（PaaS）、以及软件即服务（SaaS）。
-  本课程还涵盖一些核心Azure服务和解决方案，以及与安全性、隐私、合规性和信任有关的关键Azure支柱服务。最后，它将涵盖Azure可用的定价和支持服务。
- 
+  本课程将提供有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。在继续学习 Microsoft Azure 或 Microsoft 云端服务课程之前，该课程可以作为学习云端服务和 Microsoft Azure 的可选第一步。
+
+  该课程将涵盖一般的云端计算概念，以及一般的云端计算模型和服务，例如公共云端、私有云端和混合云端，以及基础结构即服务 (IaaS)、平台即服务 (PaaS) ，以及软件即服务 (SaaS)。
+
+  它还将涵盖一些核心 Azure 服务和解决方案，以及与安全性、隐私权、合规性和信任有关的关键 Azure 支柱服务。最后，它将涵盖 Azure 可用的定价和支持服务。
+
   #### 受众概况
-  参加本课程没有任何前提条件。本课程面向希望了解有关Microsoft Azure的更多信息的用户。
+  参加本课程没有任何前提条件。它面向希望了解有关 Microsoft Azure 的更多信息的用户。
 prerequisitesSection: |-
-  参加本课程没有任何前提条件。不要求具有 IT 技术经验，然而，一些一般性的 IT 知识或经验将是有益的。
+  参加本课程没有任何前提条件。不要求考生具有 IT 技术经验，然而一些一般性的 IT 知识或经验将是有益的。
 outlineSection: |-
-  ### 模块 1&#58; 云概念
-  在本模块中，您将学习基本的云概念。
-  
+  ### 模块 1&#58; 云的概念
+  在本模块中，您将学习基本的云端概念。
   #### 课程
   - 学习目标
-  - 为什么要使用云服务？
-  - 基础架构即服务（IaaS），平台即服务（PaaS）和软件即服务（SaaS）
-  - 公共、私有和混合云模型
-  学完本模块后，学生将能够&#58;
-  - 了解一般的云计算概念
-  
+  - 为什么要使用云端服务？
+  - 基础架构即服务（IaaS）, 平台即服务（PaaS）, 和软件即服务（SaaS）
+  - 公共、私有和混合云端模型
+
+  完成本模块后，学生将能够&#58;
+  - 了解一般的云端计算概念
+
+
   ### 模块 2&#58; 核心Azure服务
-  在本模块中，您将学习Microsoft Azure提供的基本核心服务。
+  在本模块中，您将学习 Microsoft Azure 提供的基本核心服务。
   #### 课程
-  - 核心Azure架构组件
-  - 核心Azure服务和产品
-  - Azure解决方案
-  - Azure管理工具
-  学完本模块后，学生将能够&#58;
+  - 核心 Azure 架构组件
+  - 核心 Azure 服务和产品
+  - Azure 解决方案
+  - Azure 管理工具
+
+  完成本模块后，学生将能够&#58;
   - 了解可用于的核心服务
   Microsoft Azure
-  
+
   ### 模块 3&#58; 安全性、隐私权、合规性和信任
-  在本模块中，您将了解有关Microsoft Azure的安全性、隐私性、合规性和信任度。
+  在本模块中，您将了解有关 Microsoft Azure 的安全性、隐私权、合规性和信任。
   #### 课程
-  - 在Azure中保护网络连接
-  - 核心Azure身份服务
+  - 保护 Azure 中的网络连接能力
+  - 核心 Azure 身份服务
   - 安全工具和功能
-  - Azure治理方法
-  - Azure中的监视和报告
-  - Azure中的隐私、合规性和数据保护标准
-  学完本模块后，学生将能够&#58;
-  - 理解
-  - Microsoft Azure的安全性、隐私性、合规性和信任
-  
-  ### 模块 4&#58; Azure定价和支持
-  在本模块中，您将重点关注Microsoft可用的定价和支持模型。
+  - Azure 治理方法
+  - Azure 中的监控和报告
+  - Azure 中的隐私权、合规性和数据保护标准
+
+  完成本模块后，学生将能够&#58;
+  - 了解
+  Microsoft Azure 的安全性、隐私权、合规性和信任
+
+  ### 模块 4&#58; Azure 定价和支持
+  在本模块中，您将重点关注 Microsoft 可用的定价和支持模型。
   #### 课程
   - Azure订阅
   - 计划和管理成本
-  - Azure提供的支持选项
-  - Azure中的服务生命周期
+  - Azure 提供的支持选项
+  - Azure 中的服务生命周期
 
-  学完本模块后，学生将能够&#58;
-  - 了解Microsoft提供的定价和支持模型
+  完成本模块后，学生将能够&#58;
+  - 了解 Microsoft 提供的定价和支持模型
 

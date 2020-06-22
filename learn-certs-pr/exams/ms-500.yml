@@ -1,28 +1,32 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: '考试 MS-500：Microsoft 365 Security Administration'
-  description: '考试 MS-500：Microsoft 365 Security Administration'
+  title: 'Exam MS-500: Microsoft 365 Security Administration'
+  description: 'Exam MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: >-
-  此考试的考生可以实施、管理和监控 Microsoft 365 和混合环境的安全性和合规性解决方案。Microsoft 365 Security Administrator可以主动保护Microsoft 365企业环境的安全、响应威胁、执行调查并实施数据治理。Microsoft 365 安全管理员与 Microsoft 365 企业管理员，业务利益相关者和其他工作负荷管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年6月8日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  </div>
 
+  此考试的考生可以实施、管理和监控 Microsoft 365 和混合环境的安全性和合规性解决方案。Microsoft 365 安全管理员可以主动保护Microsoft 365企业环境的安全、响应威胁、执行调查并实施数据治理。Microsoft 365 安全管理员与 Microsoft 365 企业管理员，业务利益相关者和其他工作负荷管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
   <br/>
 
-
   此考试的考生应熟悉 Microsoft 365 工作负荷，在身份保护、信息保护、威胁防护、安全管理和数据治理方面拥有丰富的技能和经验。该角色专注于Microsoft 365环境，并包括混合环境。
-subTitle: 该考试衡量您完成以下技术任务的能力：实施和管理身份和访问；实施和管理威胁防护；实施和管理信息保护；以及管理 Microsoft 365 中的治理和合规性功能。
+subTitle: '该考试衡量您完成以下技术任务的能力：实施和管理身份和访问；实施和管理威胁防护；实施和管理信息保护；以及管理 Microsoft 365 中的治理和合规性功能。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-500&examname=考试%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
+- 考试内容将于2020年6月8日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 实施和管理身份和访问(30-35%)
 - 实施和管理威胁防护(20-25%)
 - 实施和管理信息保护(15-20%)
@@ -45,23 +49,27 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Security Administrator Associate。'
+  description: 发现培训资源以获得 Microsoft Certified：Security Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重新考试
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

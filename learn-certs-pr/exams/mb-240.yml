@@ -7,8 +7,8 @@ uid: exam.mb-240
 displayName: MB-240
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月19日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月19日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
   本考试的考生是具有现场服务专业知识的 Microsoft Dynamics 365 客户参与职能顾问。考生负责实施管理资源的解决方案，以完成现场服务生命周期。
@@ -25,6 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 此考试的内容于2020年5月19日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 配置现场服务应用程序(20-25%)
 - 管理工作订单(15-20%)
 - 安排和派遣工单(20-25%)
@@ -48,7 +49,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-field-service
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Dynamics 365 Field Service Functional Consultant Associate.'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Field Service Functional Consultant Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

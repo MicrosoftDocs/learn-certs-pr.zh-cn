@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Excel 2010 Expert
+metadata:
+  title: 'Exam 77-888: Excel 2010 Expert'
+  description: 'Exam 77-888: Excel 2010 Expert'
+uid: exam.77-888
+displayName: 77-888
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  专家级 Microsoft Office Excel 2010 用户能够在功能和功能级别高效且自信地使用 Excel 2010 软件。专家用户精通高级公式，函数和数据分析工具。专家用户可以操作数据以进行分析，演示和协作。此外，专家用户可以操作 Excel 选项来定制他们的环境，以满足不同的需求并提高他们的工作效率。
+subTitle: 专家级 Microsoft Office Excel 2010 用户能够在功能和功能级别高效且自信地使用 Excel 2010 软件。专家用户精通高级公式，函数和数据分析工具。专家用户可以操作数据以进行分析，演示和协作。此外，专家用户可以操作 Excel 选项来定制他们的环境，以满足不同的需求并提高他们的工作效率。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- 共享和维护工作簿
+- 应用公式和函数
+- 直观地呈现数据
+- 使用宏和表单
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

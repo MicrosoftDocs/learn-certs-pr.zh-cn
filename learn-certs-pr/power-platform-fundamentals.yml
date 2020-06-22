@@ -1,21 +1,24 @@
 ### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: 证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: 证明您了解 Power Platform 的核心功能 - 从业务价值和核心产品功能到构建简单的 Power Apps 画布应用程序，连接数据源，使用 Power Automate 实现基本业务流程自动化，创建 Power BI 控制面板以及使用 Power Virtual Agents 功能创建强大的聊天机器人。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
-subTitle: 证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  证明您了解 Power Platform 的核心功能 - 从业务价值和核心产品功能到构建简单的 Power Apps 画布应用程序，连接数据源，使用 Power Automate 实现基本业务流程自动化，创建 Power BI 控制面板以及使用 Power Virtual Agents 功能创建强大的聊天机器人。
+subTitle: 证明您了解 Power Platform 的核心功能 - 从业务价值和核心产品功能到构建简单的 Power Apps 画布应用程序，连接数据源，使用 Power Automate 实现基本业务流程自动化，创建 Power BI 控制面板以及使用 Power Virtual Agents 功能创建强大的聊天机器人。
 levels:
 - beginner
 skills:
-- 了解Power Platform的商业价值
-- 了解Power Platform的核心组件
--  展示Power BI的商业价值
--  展示Power Apps的商业价值
--  展示Power Automate的业务价值
+- 描述 Power Platform 的业务价值
+- 识别 Power Platform 的核心组件
+- 描述 Power BI 的业务价值
+- 描述 Power Apps 的业务价值
+- 描述 Power Automate 的业务价值
+- 展示 Power Virtual Agents 的业务价值
 roles:
 - business-user
 - functional-consultant
@@ -31,7 +34,7 @@ exams:
 - uid: exam.pl-900
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Power Platform Fundamentals.'
+  description: '发现培训资源以获得 Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -48,3 +51,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -6,12 +6,14 @@ metadata:
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
   Azure 数据工程师使用完整的 Azure 数据服务堆栈来设计和实施数据的管理、监控、安全性和隐私、以满足业务需求。
 subTitle: Azure 数据工程师使用完整的 Azure 数据服务堆栈来设计和实施数据的管理、监控、安全性和隐私、以满足业务需求。
 levels:
 - intermediate
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 实施数据存储解决方案
 - 管理和开发数据处理
 - 监控和优化数据解决方案
@@ -49,6 +51,9 @@ exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -64,3 +69,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

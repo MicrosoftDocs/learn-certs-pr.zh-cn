@@ -1,43 +1,46 @@
 ### YamlMime:Examination
 title: Deploying SharePoint Server Hybrid
 metadata:
-  title: '考试 MS-301：Deploying SharePoint Server Hybrid'
-  description: '考试 MS-301：Deploying SharePoint Server Hybrid'
+  title: 'Exam MS-301: Deploying SharePoint Server Hybrid'
+  description: 'Exam MS-301: Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
-summary: >-
-  此考试的考生是 Teamwork 管理员，他们负责配置、部署和管理专注于高效有效协作和使用的 Office 365 和 Azure 工作负荷。Teamwork 管理员可管理应用程序、服务和支持基础架构，以满足业务需求。Teamwork Administrator 必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>该考试将于 2020 年 8 月 31 日停用。注意&#58; 考试将于美国中部标准时间晚上11&#58;59停用<br/></div>
+  </div>
 
+  此考试的考生是 Teamwork Administrator，他们负责配置、部署和管理专注于高效有效协作和使用的 Office 365 和 Azure 工作负荷。Teamwork Administrator 可管理应用程序、服务和支持基础架构，以满足业务需求。Teamwork Administrator 必须能够部署、管理、迁移和保护 SharePoint(在线、本地和混合)、OneDrive和 Teams。
   <br/>
-
 
   Teamwork Administrator 参与有关治理的决策，并与其他Administrator 合作实施治理机构做出的许多决策。Teamwork Administrator 与 Messaging Administrator 协作配置与电子邮件任务相关的选项和安全性，Voice 管理员在组织中集成语音功能，以及 Security 管理员以确保端到端的安全性。
 
-
-  参加该考试的考生对以下应用程序和服务的集成点有基本的了解：Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。考生还了解 SQL Server 管理概念，Azure Active Directory，PowerShell，网络，Windows Server 管理，域名系统（DNS），Active Directory 移动设备管理和替代操作系统。
-subTitle: 此考试衡量您完成以下技术任务的能力：配置和管理 SharePoint 内部部署；配置和管理混合场景；以及迁移到 SharePoint Online。
+  参加该考试的考生对以下应用程序和服务的集成点有基本的了解：Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。考生还了解 SQL Server 管理概念，Azure Active Directory，PowerShell，网络，Windows Server 管理，域名系统(DNS)，Active Directory 移动设备管理和替代操作系统。
+subTitle: '此考试衡量您完成以下技术任务的能力：配置和管理 SharePoint 内部部署；配置和管理混合场景；以及迁移到 SharePoint Online。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-301&examname=Exam%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-301
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-301&examname=考试%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 配置和管理 SharePoint 内部部署(55-60%)
 - 配置和管理混合方案(30-35%)
-- 迁移到 SharePoint Online(5-10%)
+- 迁移至 SharePoint Online(5-10%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-300
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-300
 courses:
 - uid: course.ms-301t01
 - uid: course.ms-301t02
@@ -48,23 +51,27 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Teamwork Administrator Associate。'
+  description: 发现培训资源以获得 Microsoft Certified：Teamwork Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重新考试
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

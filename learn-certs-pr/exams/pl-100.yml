@@ -1,0 +1,97 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform App Maker (beta)'
+metadata:
+  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+uid: exam.pl-100
+displayName: PL-100
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+    
+  该应用程序制造商为自己和他们的团队构建了解决方案，以简化，自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。<br/><br/>
+
+  应用程序制造商可以创建和执行业务流程，构建信息的数字收集结构，提高可重复任务的效率，并使业务流程自动化。
+
+  应用程序制造商使用 Power Platform 的制造商工具来解决业务问题。他们可能具有 Visual Basic for Applications、Excel 数据透视表、Teams 和其他工具的经验。他们应该对数据模型、用户接口和流程有基本的了解。应用程序制造商了解可用工具的功能和局限性，并了解如何应用它们。
+
+  应用程序制造商是自我指导的，专注于解决方案。他们可能没有接受过正式的 IT 培训，但很乐于以个人成长的心态使用技术来解决业务问题。他们了解操作需求，并对期望的结果有愿景。他们采用分阶段的迭代策略来解决问题。  
+
+  <div style='font-weight&#58; bold;'><br/>Note&#58; ``这项考试将于 2020 年 7 月左右推出。</div>
+subTitle: '这项考试将于 2020 年 7 月左右推出。该考试衡量您完成以下技术任务的能力：设计解决方案；创建解决方案；分析数据；并实施和管理解决方案。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 设计解决方案 (10-15%)
+- 创造解决方案 (50-55%)
+- 分析数据 (5-10%)
+- 实施和管理解决方案 (15-20%)
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- functional-consultant
+- maker
+- technology-manager
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-app-maker
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
+

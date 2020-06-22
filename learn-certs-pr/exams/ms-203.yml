@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft 365 Messaging
+metadata:
+  title: 'Exam MS-203: Microsoft 365 Messaging'
+  description: 'Exam MS-203: Microsoft 365 Messaging'
+uid: exam.ms-203
+displayName: MS-203
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  此考试的考生是 Messaging Administrators，他们在混合式和云端端企业环境中部署、配置、管理、疑难解答和监控收件者、权限、邮件保护、邮件流和公用文件夹。
+
+  Messaging Administrators负责管理检疫、消息传送基础结构、混合式配置、迁移、传输、邮箱和客户端访问。
+
+  Messaging Administrators 与 Security Administrator 和 Microsoft 365 企业管理员协作，以实施满足企业业务需求的、安全的混合式或纯云端拓扑。
+
+  Messaging Administrators 应在认证类型、许可和与 Microsoft 365 应用程序集成方面具备实际应用知识。
+subTitle: '这项考试衡量您完成以下技术任务的能力：管理组织设置和资源；规划和管理邮件体系结构；规划和实施混合配置和迁移；并确保消息传送环境的安全。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 管理组织设置和资源 (30-35%)
+- 规划和管理邮件架构 (20-25%)
+- 规划和实施混合配置和迁移(20-25%)
+- 保护消息传递环境(20-25%)
+roles:
+- administrator
+products:
+- m365
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Microsoft OneNote 2013
+metadata:
+  title: 'Exam 77-421: Microsoft OneNote 2013'
+  description: 'Exam 77-421: Microsoft OneNote 2013'
+uid: exam.77-421
+displayName: 77-421
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  Microsoft OneNote 2013 考试的考生应对 OneNote 环境有基本认识，并能独立完成各种任务。他们应该了解并能展示 OneNote 2013 主要功能的正确应用。
+
+  考生应该能够为各种目的和情况创建，编辑和共享笔记本。他们应将 OneNote 作为数字笔记本，简化个人工作，并集成其他 Office 2013 应用程序。考生使用 OneNote 2013 的功能高效组织内容、开展协作。笔记本示例包括课堂笔记、会议记录、活动规划和待办事项清单。考生的角色包括学生、讲师、行政助理、公司团队、项目经理等。
+subTitle: Microsoft OneNote 2013 考试的考生应对 OneNote 环境有基本认识，并能独立完成各种任务。他们应该了解并能展示 OneNote 2013 主要功能的正确应用。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkE
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-421&examname=Microsoft%20OneNote%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-421
+locales:
+- en
+- nb
+levels:
+- beginner
+skills:
+- 管理 OneNote 环境(25-30%)
+- 与其他用户分享和协作(15-20%)
+- 整理和查找笔记(20-25%)
+- 在 OneNote 中编辑和链接内容(25-30%)
+roles:
+- business-user
+products:
+- office-onenote
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

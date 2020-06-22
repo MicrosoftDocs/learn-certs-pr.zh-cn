@@ -5,7 +5,18 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>\r\n  \r\nAzure Administrator 在云环境中实现、管理和监视身份，治理，存储，计算和虚拟网络。Azure Administrator 将根据需要设置，调整大小，监视和调整资源。\r\n\r\n考生应至少有六个月的 Azure 实践管理经验。考生应该对核心 Azure 服务，Azure 工作负荷，安全性和治理有深刻的了解。参加该考试的考生应具有使用 PowerShell，命令行界面，Azure 门户和 ARM 模板的经验。\r\n\r\n<div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">详细了解测试考试的价值和重要性。</a></div>"
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  参加该考试的考生应具有主题知识，可以实施、管理和监控组织的 Microsoft Azure 环境。
+
+  Azure Administrator 的职责包括在云端环境中实施、管理和监控身份、治理、存储、计算和虚拟网络，以及在需要时提供、重设大小、监控和调整资源。
+
+  Azure Administrator 通常是专门用于实施组织的云端基础结构的较大团队的一部分。
+
+  参加该考试的考生应至少具有六个月的 Azure 管理实践经验，并对核心 Azure 服务、Azure 工作负荷、安全性和治理有深刻的了解。此外，该角色应具有使用 PowerShell、Azure CLI、Azure 门户和 Azure Resource Manager 模板的经验。
+
+  <div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></div>
 subTitle: '此考试衡量您完成以下技术任务的能力：管理 Azure 身份和治理；实施和管理存储；部署和管理 Azure 计算资源；配置和管理虚拟网络；并监视和备份 Azure 资源。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -15,29 +26,25 @@ locales:
 levels:
 - intermediate
 skills:
-- 管理 Azure 身份和治理(15-20%)
+- 管理 Azure 身份和治理(15 -20%)
 - 实施和管理存储 (10-15%)
-- 部署和管理 Azure 计算资源(25-30%)
+- 部署和管理 Azure 计算资源(25 -30%)
 - 配置和管理虚拟网络 (30-35%)
-- 监视和备份 Azure 资源(10-15%)
+- 监视和备份 Azure 资源(10 -15%)
 roles:
 - administrator
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator

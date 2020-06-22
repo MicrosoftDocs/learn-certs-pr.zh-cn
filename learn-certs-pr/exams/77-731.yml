@@ -1,21 +1,30 @@
 ### YamlMime:Examination
 title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
 metadata:
-  title: '考试 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: '考试 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: "成功的考生将能创建和编辑具有专业外观的电子邮件、跨时区维护日历，并计划适用于多种用途和情形的任务。考生将能使用 Outlook 2016 来增强专业通信、创建日历和安排约会。应用示例包括协调构建资源、传送市场营销消息，规划员工会议，以及分派会议活动项目。\n\n微软办公专家（MOS）2016认证考试引入了一种新的实践式考试形式，改进了对考生的 MOS 2016 课题的知识、技能和能力的考察&#58;\n- MOS 2016 考试任务说明通常不像以前的版本一样包括命令名称。例如，避免使用函数名称并用描述符取代。这意味着考生必须了解程序功能的目的和常用用法，才能成功完成每个课题中的任务。 \n- MOS 2016 考试格式合并了多个课题。\n"
+summary: |+
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  成功的考生将能创建和编辑具有专业外观的电子邮件、跨时区维护日历，并计划适用于多种用途和情形的任务。考生将能使用 Outlook 2016 来增强专业通信、创建日历和安排约会。应用示例包括协调构建资源、传送市场营销消息，规划员工会议，以及分派会议活动项目。
+
+  Microsoft Office Specialist (MOS) 2016认证考试引入了一种新的实践式考试形式，改进了对考生的 MOS 2016 课题的知识、技能和能力的考察：
+  MOS 2016 考试任务说明通常不像以前的版本一样包括命令名称。例如，避免使用函数名称并用描述符取代。这意味着考生必须了解程序功能的目的和常用用法，才能成功完成每个课题中的任务。
+  - MOS 2016 考试格式合并了多个课题。
 subTitle: 成功的考生将能创建和编辑具有专业外观的电子邮件、跨时区维护日历，并计划适用于多种用途和情形的任务。考生将能使用 Outlook 2016 来增强专业通信、创建日历和安排约会。应用示例包括协调构建资源、传送市场营销消息，规划员工会议，以及分派会议活动项目。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
 - zh-cn
 - zh-tw
+- nl
 - de
 - es
 - fr
@@ -25,9 +34,10 @@ locales:
 levels:
 - intermediate
 skills:
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 管理 Outlook 环境，提高生产率 (20-25%)
-- 管理消息（35-40%）
-- 管理工作计划（35-40%）
+- 管理消息(35-40%)
+- 管理工作计划(35-40%)
 - 管理联系人和群组 (10-15%)
 roles:
 - developer
@@ -45,7 +55,8 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

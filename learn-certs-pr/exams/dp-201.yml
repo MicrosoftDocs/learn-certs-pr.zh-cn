@@ -5,7 +5,14 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div>\r\n<div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>  \r\n<div style='font-weight&#58; bold;'>此考试的内容于2020年3月26日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>\r\n</div>\r\n\r\n此考试的考生是 Microsoft Azure 数据工程师，他们与业务利益相关者合作，以识别和满足数据要求，使用 Azure 数据服务设计数据解决方案。\r\n\r\nAzure 数据工程师负责与数据相关的任务，包括设计使用关系和非关系数据存储的 Azure 数据存储解决方案，批处理和实时数据处理解决方案以及数据安全和合规性解决方案。\r\n\r\n此考试的考生必须设计使用以下 Azure 服务的数据解决方案：Azure Cosmos DB，Azure SQL 数据库，Azure SQL Synapse Analytics，Azure Data Lake 存储，Azure 数据工厂，Azure 流分析，Azure Databricks 和 Azure Blob 存储。"
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>  
+    
+  此考试的考生是 Microsoft Azure 数据工程师，他们与业务利益相关者合作，以识别和满足数据要求，使用 Azure 数据服务设计数据解决方案。
+
+  Azure 数据工程师负责与数据相关的任务，包括设计使用关系和非关系数据存储的 Azure 数据存储解决方案，批处理和实时数据处理解决方案以及数据安全和合规性解决方案。
+
+  此考试的考生必须设计使用以下 Azure 服务的数据解决方案：Azure Cosmos DB，Azure SQL 数据库，Azure SQL Synapse Analytics，Azure Data Lake 存储，Azure 数据工厂，Azure 流分析，Azure Databricks 和 Azure Blob 存储。
 subTitle: '此考试衡量您完成以下技术任务的能力：设计 Azure 数据存储解决方案；设计数据处理方案；并设计数据安全性和合规性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,11 +26,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于2020年3月26日更新。请下载下面的技能测量文档，看看有何变化。
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 设计 Azure 数据存储解决方案(40-45%)
 - 设计数据处理解决方案(25-30%)
-- 数据安全性和合规性设计(25-30%)
+- 设计数据安全性和合规性(25-30%)
 roles:
 - data-engineer
 products:

@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Excel 2013 Expert Part One
+metadata:
+  title: 'Exam 77-427: Excel 2013 Expert Part One'
+  description: 'Exam 77-427: Excel 2013 Expert Part One'
+uid: exam.77-427
+displayName: 77-427
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  Excel 2013 考试的专家级别考生应对 Excel 环境有深入认识，并且有能力指导他人正确使用 Office 专业增强版中 Excel 2013 的功能。他们应该了解并能展示该应用程序内高级和专用功能的使用。
+
+  考生应能够创建、管理和分发适合多种专业用途和情况的专业表单，还应能够自定义 Excel 环境，满足自己的需求，提高生产力。工作簿示例包括自定义业务模板、多轴财务图表、模拟表格以及清单计划。考生的角色可能包括会计师、财务分析师、数据分析师、商业银行家等。
+subTitle: Excel 2013 考试的专家级别考生应对 Excel 环境有深入认识，并且有能力指导他人正确使用 Office 专业增强版中 Excel 2013 的功能。他们应该了解并能展示该应用程序内高级和专用功能的使用。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t557
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-427&examname=Excel%202013%20Expert%20Part%20One&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-427
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 管理和共享工作簿
+- 应用自定义格式和布局
+- 创建高级公式
+- 创建高级图表和表格
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

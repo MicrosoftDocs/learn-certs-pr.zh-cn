@@ -7,21 +7,21 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div><strong>该认证于2021年1月31日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何认证将继续显示在认证控制面板的 <a href='https://www.microsoft.com/learning/dashboard.aspx'>成绩证明中。</a>.您也可以 <a href='/learn/certifications/retired-certifications'>browse all retired certifications</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>该证书将于2021年1月31日美国中部时间下午 11&#58;59 停用。在此日期之后，您将无法再获得此认证。了解关于<a href='/learn/certifications/retired-certifications'>即将停用认证</a>的更多信息。</a></strong><br/><br/></div>
   </div>
 
-  此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) 的要求之一
+  此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为[Microsoft 365认证企业管理员专家]的要求之一](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 
   要成为MCSE生产力解决方案专家，请完成以下要求&#58;
   - 获得一项必备认证
     - 必备选项1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 必备选项2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 通过其中一项选修考试
-    - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
-    - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
+    - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/ certifications/exams/70-333)
+    - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/ certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
-    - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
+    - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/ certifications/exams/70-345)
 subTitle: 此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为Microsoft 365认证企业管理员专家的要求之一
 levels:
 - advanced

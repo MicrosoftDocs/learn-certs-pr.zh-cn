@@ -7,8 +7,8 @@ uid: exam.mb-400
 displayName: MB-400
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
   参加此考试的考生使用Dynamics 365中的Microsoft Power Apps模型驱动应用程序来设计、开发、保护和扩展Dynamics 365。考生实现解决方案的组件，包括应用程序增强功能，自定义用户体验，系统集成，数据转换，自定义流程自动化和自定义可视化。
@@ -19,15 +19,15 @@ summary: |-
 subTitle: '这项考试衡量您完成以下技术任务的能力：创建技术设计；配置公共数据服务(CDS)；创建和配置Power Apps；配置业务流程自动化；扩展用户体验； 扩展平台；以及发展整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看将有何变化。
+- 此考试的内容于2020年5月22日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 创建技术设计(10-15%)
-- 配置公共数据服务(CDS)(15-20%)
+- 配置公共数据服务(15-20%)
 - 创建和配置Power Apps(10-15%)
 - 配置业务流程自动化(10-15%)
 - 扩展用户体验(15-20%)
@@ -52,7 +52,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Power Apps + Dynamics 365 Developer Associate。'
+  description: 发现培训资源以获得 Microsoft Certified：Power Apps + Dynamics 365 Developer Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

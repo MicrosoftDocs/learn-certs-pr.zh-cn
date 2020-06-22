@@ -1,19 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
-  description: Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决 Solution Architect领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  
-  Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决 Solution Architect领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。 
-subTitle: Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决 Solution Architect领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
+subTitle: Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
 levels:
 - advanced
 skills:
-- '注意: 出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 执行解决方案构想和需求分析
 - 架构解决方案
 - 实施解决方案
@@ -43,7 +42,7 @@ prerequisites:
   isOptional: false
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

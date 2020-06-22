@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: 该认证将在 2020 年 7 月 17 日或前后推出。该应用程序制造商为自己和他们的团队构建了解决方案，以简化，自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
+
+  该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
+
+  <div><strong><br/>Note&#58; 该认证将于 2020 年 7 月左右推出。</strong></div>
+subTitle: 该认证将于 2020 年 7 月左右推出。该应用程序制造商为自己和他们的团队构建了解决方案，以简化，自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
+levels:
+- intermediate
+skills:
+- 设计解决方案
+- 创造解决方案。
+- 分析数据
+- 实施和管理解决方案
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+exams:
+- uid: exam.pl-100
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

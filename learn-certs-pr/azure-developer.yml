@@ -2,12 +2,20 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案(如应用程序和服务)，与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
+  description: 'Azure Developer 设计、构建、测试和维护云端应用程序和服务。'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案(如应用程序和服务)，与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
-subTitle: Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案(如应用程序和服务)，与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
+
+  Azure Developer Associate 认证的考生应具有在 Microsoft Azure 上设计、构建、测试和维护云端应用程序和服务的主题专业知识。
+
+  担任此角色的职责包括参与云端开发的所有阶段，从需求定义和设计到开发、部署和维护、性能调整和监控。
+
+  Azure Developer 与远程解决方案架构师、云端 DBA、云端管理员和客户端合作以实施解决方案。
+
+  该证书的考生应具有 1-2 年的专业开发经验以及 Microsoft Azure 的经验。此外，该角色应具有以 Azure 支持的语言进行编程的能力以及 Azure SDK、数据存储选项、数据连接、API，应用程序身份验证和授权、计算和容器部署、调试、性能调整和监控方面的熟练程度。
+subTitle: Azure Developer 设计、构建、测试和维护云端应用程序和服务。
 levels:
 - intermediate
 skills:
@@ -15,7 +23,7 @@ skills:
 - 开发 Azure 存储
 - 实现 Azure 安全性
 - 监控、故障排除并优化 Azure 解决方案
-- 连接并使用 azure 服务和第三方服务
+- 连接并使用 Azure 服务和第三方服务
 roles:
 - developer
 type: role-based
@@ -31,12 +39,8 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
-- uid: course.az-203t01
-- uid: course.az-203t02
-- uid: course.az-203t03
-- uid: course.az-203t04
-- uid: course.az-203t05
-- uid: course.az-203t06
+- uid: course.az-204t00
+- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -54,9 +58,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJU
 exams:
 - uid: exam.az-204
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Azure Developer Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure Developer Associate 资格的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -72,3 +79,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -18,15 +18,14 @@ summary: |-
 subTitle: '这项考试衡量您完成以下技术任务的能力：设计监控；设计身份和安全性；设计数据存储；设计业务连续性；和设计基础架构。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
 - advanced
 skills:
-- 设计监控(10-15%)
-- 设计身份和安全性(25-30%)
-- 设计数据存储(15-20%)
+- 设计监控(10 -15%)
+- 设计身份和安全性(25 -30%)
+- 设计数据存储(15 -20%)
 - 设计业务连续性 (10-15%)
 - 设计 基础结构 (25-30%)
 roles:
@@ -37,9 +36,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

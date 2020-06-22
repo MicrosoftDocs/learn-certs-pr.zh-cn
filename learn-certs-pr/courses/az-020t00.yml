@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Microsoft Azure solutions for AWS developers
+metadata:
+  title: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+  description: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+uid: course.az-020t00
+courseNumber: 'AZ-020T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+- uid: exam.az-204
+summary: |-
+  为期三天的课程旨在教 AWS (Amazon Web Services) 开发人员如何在 Microsoft Azure 中准备端到端解决方案。在本课程中，您将构建 Azure App Service Web App 解决方案和 Azure Functions，在解决方案中使用 blob 或 Cosmos DB 存储，实施包括用户身份验证和授权在内的安全云端解决方案，实施 API 管理，以及开发基于事件和消息的解决方案，并监控、解决和优化您的 Azure 解决方案。您将了解开发人员如何使用 Azure 服务，并将重点关注不同于 AWS 的功能和任务，以及在开发将使用 Azure 服务托管的应用程序时这对您意味着什么。
+
+  #### 受众概况
+  本课程的学生是对 Azure 开发感兴趣的经验丰富的 AWS 开发人员。
+prerequisitesSection: |-
+  学生应具有 1-2 年的专业开发经验和 AWS 的经验。他们必须能够使用 Azure 支持的语言进行编程。
+outlineSection: |-
+  ### 模块 1&#58; 创建 Azure App Service Web 应用程序
+  学生将学习如何在 Azure App Service 平台上构建 Web 应用程序。他们将学习平台的功能以及如何创建、配置、扩展、保护和部署到 App Service 平台。
+  #### 课程
+  - Azure App Service核心概念
+  - 创建一个Azure App Service Web 应用程序
+  - 配置和监视 App Service 应用程序
+  - 扩展 App Service 应用
+  - Azure App Service 暂存环境
+
+
+  ### 模块 2&#58; 实现 Azure 功能
+  本模块介绍如何创建功能应用程序，以及如何将触发器和输入/输出集成到该应用程序中。
+  #### 课程
+  - Azure 功能概述
+  - 开发 Azure 功能
+  - 实现持久功能
+
+
+  ### 模块 3&#58; 开发使用 blob 存储的解决方案
+  学生将学习 Azure Blob 存储的工作方式，如何通过热/冷/归档 Blob 存储生命周期管理数据，以及如何使用 Azure Blob 存储客户端库来管理数据和元数据。此外，学生还将学习如何创建 ARM（Azure 资源管理员）模板。
+  #### 课程
+  - Azure Blob 存储核心概念
+  - 管理 Azure Blob 存储生命周期
+  - 使用 Azure Blob存储
+  - 创建 Azure 资源管理器模板
+
+
+  ### 模块 4&#58; 开发使用 Cosmos DB 存储的解决方案
+  学生将学习 Cosmos DB 的结构以及如何管理数据一致性。学生还将学习如何通过结合使用 Azure 门户和 .NET SDK 来创建 Cosmos DB 帐户以及创建数据库、容器和项目。
+  #### 课程
+  - Azure Cosmos DB 概述
+  - Azure Cosmos DB data structure
+  - 使用 Azure Cosmos DB 资源和数据
+  - 创建和部署 ARM 模板
+
+
+  ### 模块 5&#58; 创建和部署 Azure 资源管理员 (ARM) 模板
+  学生将学习如何创建和部署 Azure 资源管理员模板，这些模板可用于加快新部署的速度并在资源之间创建一致性。
+  #### 课程
+  -创建和部署 ARM 模板
+
+
+  ### 模块 6&#58; 实施用户身份验证和授权
+  学生将学习如何利用 Microsoft Identity Platform v2.0 管理身份验证和对资源的访问。学生还将学习如何使用 Microsoft 身份验证库和 Microsoft Graph 来对用户进行身份验证并检索存储在 Azure 中的信息，以及如何以及何时使用共享访问签名。
+  #### 课程
+  - 实施 Microsoft 身份平台
+  - 实施 Microsoft 身份验证库
+  - 使用 Azure 应用配置保护应用配置数据的安全
+
+
+  ### 模块 7&#58; 实施安全的云解决方案
+  本模块介绍如何保护应用程序用来访问资源的信息（密钥、机密、证书）。它还涵盖保护应用程序配置信息的安全。
+  #### 课程
+  - 使用 KeyVault API 管理密钥、机密和证书
+  - 实施 Azure 资源的托管身份
+  - 使用 Azure 应用配置保护应用配置数据的安全
+
+
+  ### 模块 8&#58; 实施 API 管理
+  学生将学习如何发布 API，创建策略以管理通过 API 共享的信息以及使用 Azure API 管理服务来管理对其 API 的访问。
+  #### 课程
+  - 实施 API 管理
+  - 定义 API 策略
+  - 保护您的 API
+
+
+  ### 模块 9&#58; 开发基于事件的解决方案
+  学生将学习如何使用基于事件的架构来构建应用程序。
+  #### 课程
+  - 实施 Azure 事件网格
+  - 实施 Azure 事件中心
+  - 实施 Azure 通知中心
+
+
+  ### 模块 10&#58; 开发基于消息的解决方案
+  学生将学习如何使用基于消息的体系结构构建应用程序。
+  #### 课程
+  - 实施使用Azure Service Bus的解决方案
+  - 实施使用Azure队列存储队列的解决方案
+
+
+  ### 模块 11&#58; 监控和优化 Azure 解决方案
+  该模块教学生如何为遥测技术检测代码。
+  #### 课程
+  - Azure Application Insights 的应用
+  - 监控应用程序
+

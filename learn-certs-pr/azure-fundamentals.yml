@@ -1,19 +1,28 @@
 ### YamlMime:Certification
-title: Microsoft Certified Azure Fundamentals
+title: 'Microsoft Certified: Azure Fundamentals'
 metadata:
-  title: Microsoft Certified Azure Fundamentals
-  description: 证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
+  title: 'Microsoft Certified: Azure Fundamentals'
+  description: 'Azure Fundamentals 验证了云端服务的基础知识以及 Microsoft Azure 如何提供这些服务。'
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: 证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
-subTitle: 证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Azure Fundamentals 认证的考生应具有云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。
+
+  Azure Fundamentals 认证是让您有机会证明在云端概念、核心 Azure 服务、Azure 定价、SLA 和生命周期方面的知识，以及在云端安全性、隐私权、合规性和信任方面的基础知识。
+
+  该认证适用于开始使用基于云端的解决方案和服务的人们。考生应该能够证明有关云端概念以及 Azure 服务、工作负荷、安全性、隐私权、定价和支持的基本知识。此外，您应该熟悉网络、存储、计算、应用程序支持和应用程序开发的概念。
+
+  Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
+subTitle: Azure Fundamentals 验证了云端服务的基础知识以及 Microsoft Azure 如何提供这些服务。
 levels:
 - beginner
 skills:
-- 理解 Cloud 概念
-- 了解核心 Azure 服务
-- 了解安全性、隐私、合规性和信任
-- 了解 Azure 定价和支持
+- 描述云端概念
+- 描述核心 Azure 服务
+- 描述安全性、隐私权、合规性和信任
+- 描述 Azure 定价服务等级协议和生命周期
 roles:
 - developer
 type: fundamentals
@@ -21,27 +30,29 @@ products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Azure Fundamentals。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
-- title: 支持认证
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

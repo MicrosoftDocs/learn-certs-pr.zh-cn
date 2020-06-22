@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: exam.70-743
+displayName: 70-743
+summary: |-
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
+  </div>
+
+  本考试的考生是实施 Windows Server 2016 核心基础设施服务的 IT 专业人员。
+
+  考生已获得 MCSA：Windows Server 2008 或 MCSA：Windows Server 2012 R2 认证。本考试涵盖 Windows Server 2016 中可用的安装、存储、计算、联网和身份功能的关键方面。
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; 截至2018年11月2日，考试更新有效。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试743变更文档。</div>
+subTitle: 本考试的考生是实施 Windows Server 2016 核心基础设施服务的 IT 专业人员。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IoQP
+practiceTestUrl: https://www.mindhub.com/70-743-Upgrade-Your-Skills-to-Windows-Server-2016-p/mu-70-743_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 在主机和计算环境中安装 Windows Server
+- 实施存储解决方案
+- 实施 Hyper-V
+- 实施 Windows 容器
+- 实现高可用性
+- 实施域名系统 (DNS)
+- 实施网络连接和远程访问解决方案
+- 实施高级网络基础设施
+- 安装和配置活动目录域服务(AD DS)
+- 实施联合身份验证和访问解决方案
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20743
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

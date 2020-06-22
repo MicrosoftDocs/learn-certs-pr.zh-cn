@@ -2,18 +2,23 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: 证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
+  description: Azure IoT Developer 开发 Azure IoT 解决方案的云端和边缘组件。
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
-subTitle: 证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
+  Azure IoT Developer Specialty 认证的考生应具有开发 Azure IoT 解决方案的云端和边缘组件方面的主题专业知识。
+
+  担任此角色的职责包括使用云端服务和其他工具管理设备生命周期（设置、配置和维护）。您可以实施 Azure IoT 解决方案的设计，包括设备拓扑、联机能力、调试和安全性，以及用于管理、监控和转换与 IoT 相关的数据管线的解决方案。您还可以部署 Azure IoT Edge 组件并在边缘上配置设备网络。
+
+  Azure IoT Developer 与数据工程师和其他利益相关者合作，以确保成功进行业务集成。
+
+  参加此认证的考生应具有实施构成物联网解决方案的 Azure 服务的经验，包括数据存储选项、数据分析、数据处理和平台即服务选项。该角色还应该能够识别 IoT 解决方案的代码部分内的 Azure IoT 服务配置设置，并以至少一种 Azure 支持的语言（包括 C＃、Node、C 或 Python）执行特定的 IoT 编码任务。
+subTitle: Azure IoT Developer 开发 Azure IoT 解决方案的云端和边缘组件。
 levels:
 - intermediate
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 实施物联网解决方案基础架构
 - 设置和管理设备
 - 实施边缘
@@ -38,6 +43,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1
 exams:
 - uid: exam.az-220
 resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure IoT Developer 专业认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

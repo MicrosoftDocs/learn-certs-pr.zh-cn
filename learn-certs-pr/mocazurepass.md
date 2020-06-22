@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # 授权 Microsoft 学习合作伙伴的学生访问 Microsoft Learning Azure Passes
 
-<div style='color&#58; red;'><font color="red">针对冠状病毒(COVID-19)， Microsoft <a href="https://azure.microsoft.com/blog/">在最需要 Azure</a> 容量设定优先权。为了支持此原则，我们已从课程工具 marketplace 和 MCT Azure Pass 入口网站中永久删除了 Azure Pass 订阅。</font></div>
+<div style='color&#58; red;'><font color="red">Microsoft WWL 已恢复对 Azure 通行证的访问。请注意，这是非 SLA 解决方案，某些区域可能仍在受到资源限制。<br/> <br/> Azure 界面将提供关于支持哪些区域和大小的反馈，以及对于所选区域是否有明显要求。考虑使用该订阅支持的另一个区域，该区域没有明显的需求或大小限制。<br/> <br/>如需了解有关由 SLA 支持的替代解决方案的更多信息，请联系当前提供对 Azure 的访问的授权实验室托管者(ALH)之一。 </font> </div>
 
-最近更新时间:**2020 年 3 月 26 日**
+最近更新时间: **2020 年 5 月 22 日**
 
 当学生使用 Microsoft 官方课程注册符合条件的 Azure 相关课程时，Microsoft 将为您的学生提供 30 天免费访问 Microsoft Azure Pass 的权限。面向学生的通行证只能由经授权的 Microsoft 学习合作伙伴通过课件市场取得，并且与 MOC 课程的购买直接相关，每订购一门 MOC 课程最多可通行一次。没有其他面向学生的获得通行证的机制。如果学习合作伙伴订购 MOC 课程，但购买时未选择该课程可用的 Azure Pass，则合作伙伴可以选择返回课件市场，接下来在需要时订购该通行证。
 
@@ -26,7 +26,7 @@ ms.author: micsullivan
 
 提供给学习合作伙伴和 MCT 的通行证数量有限。只有在供应持续且仅在支持 Microsoft Azure 的[国家](https://www.windowsazure.com/pricing/faq/)中，才能保证可用性。
 
-**资格**:下面列出符合学生 Azure 通行证资格的课程，本地化的同等版本也符合条件:
+**资格**: 下面列出符合学生 Azure 通行证资格的课程，本地化的同等版本也符合条件: 
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
@@ -110,7 +110,7 @@ ms.author: micsullivan
 - MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
-注意:此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，标题可能会新增到此清单中或从中删除。
+注意: 此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，可能会向此清单中增加或从中删除标题。
 
 ## 如何申请通行证
 
@@ -120,20 +120,20 @@ ms.author: micsullivan
 
 ## 有关 Microsoft Learning Azure Pass 的详细信息
 
-提供给 Microsoft 学习合作伙伴的这个学生通行证与 [公开可用的 Microsoft Azure 试用订阅](https://azure.microsoft.com/pricing/free-trial/)功能相同，限制也类似。激活此通行证不需要支付工具，即不需要信用卡详细信息。以下是供我们的 Microsoft 学习合作伙伴和讲师使用的 Microsoft Learning Azure pass 功能的概述:
+提供给 Microsoft 学习合作伙伴的这个学生通行证与 [公开可用的 Microsoft Azure 试用订阅](https://azure.microsoft.com/pricing/free-trial/)功能相同，限制也类似。激活此通行证不需要支付工具，即不需要信用卡详细信息。以下是供我们的 Microsoft 学习合作伙伴和讲师使用的 Microsoft Learning Azure pass 功能的概述: 
 
 | Learning Partner Microsoft Student Azure Pass |
 | --- |
 | 无需信用卡详细信息即可获得 Microsoft Learning Azure Pass |
-| 金额限制 - 此通行证相关的金额限制。金额由相关课程决定。|
+| 金额限制 - 此通行证相关的金额限制。金额由相关课程确定。|
 | 30天限制 - 期间限制仍然适用。达到金额限制或期间限制都将导致通行证过期。|
 | 20 个核心 |
 | 20 个云 |
-| 100 个储存账户 |
+| 100 个存储账户 |
 | 所有数据中心位置均可用(不包括中国)|
-| 注册 azure pass 需要一个 Microsoft 账户 |
+| 注册 Azure pass 需要一个 Microsoft 账户 |
 | 可以新增共同管理员，即可以将其他 Microsoft 账户新增到同一通行证|
-| 无论这些通行证仍然有效抑或过期，都无法将多个 Microsoft Learning Azure 通行证新增到同一 Microsoft 账户，即一个 Microsoft 账户在其存留期内只能使用1个 Microsoft Learning Azure 通行证优惠。另外，已使用 Microsoft Learning Azure Pass 的账户不能使用公共可用的免费试用订阅。但是，已使用公共免费试用订阅的账户可以使用 Microsoft Learning Azure Pass。|
+| 无论这些通行证仍然有效抑或过期，都无法将多个 Microsoft Learning Azure 通行证新增到同一 Microsoft 账户，即一个 Microsoft 账户在其存留期内只能使用 1 个 Microsoft Learning Azure 通行证优惠。另外，已使用 Microsoft Learning Azure Pass 的账户不能使用公共可用的免费试用订阅。但是，已使用公共免费试用订阅的账户可以使用 Microsoft Learning Azure Pass。|
 | 默认目录是在 Active Directory 中默认建立 |
 | 预览 Azure 的功能可使用 |
 | 无法用于购买 Azure 支持计划 |
@@ -141,6 +141,6 @@ ms.author: micsullivan
 | 不能用于购买由 Marketplace 或 Store 出售的产品，或与 Azure 分开出售的其他产品(例如，Microsoft Azure Active Directory Premium)。|
 | 可以转换为标准付费订阅，并保留使用此 Microsoft Learning Azure Pass 在 Azure 中建立的所有工作。|
 
-可从以下网站查看可公开获得的试用订阅的所有法律功能的完整列表:[https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
+可从以下网站查看可公开获得的试用订阅的所有法律功能的完整列表: [https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
 
 (请注意，此链接仅用于增加额外说明，而与此版本的 Microsoft Student Azure Pass 并不是唯一相关)

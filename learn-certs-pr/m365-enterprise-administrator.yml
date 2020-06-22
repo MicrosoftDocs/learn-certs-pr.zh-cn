@@ -2,19 +2,21 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。'
+  description: 'Microsoft 365 Enterprise Administrator 参与评估、规划、迁移、部署和管理 Microsoft 365 服务。'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
-  
-  <div style='color&#58; red;'><br/>MCSE Productivity Solutions Expert 认证将于2020年6月30日停用。因此，在2021年6月30日之后，MCSE Productivity Solutions Expert 认证将不符合 Microsoft 365 Certified: Enterprise Administrator Expert 认证的先决条件。(MCSE 停用后1年)。</div>
-subTitle: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Microsoft 365 Enterprise Administrators 参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
+
+  <div><br/><strong>MCSE Productivity Solutions Expert 认证将于 2021 年 1 月 31 日停用。因此，MCSE Productivity Solutions Expert 认证不会成为 Microsoft 365 认证的必备选项：2022 年 1 月 31 日（MCSE  停用后一年）之后的 Enterprise Administrator Expert 证书。</strong></div>
+subTitle: Microsoft 365 Enterprise Administrators 参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
 levels:
 - advanced
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
-- 设计和实现 Microsoft 365 服务
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
+- 设计并实施 Microsoft 365 服务
 - 管理用户身份和角色
 - 管理访问和身份验证
 - 规划 Office 365 工作负荷和应用程序
@@ -27,12 +29,8 @@ type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -66,3 +64,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -2,15 +2,20 @@
 title: 'Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)'
-  description: 获得Microsoft Office Specialist (MOS) 认证证明您具备充分利用 Office 所需的高级技能：  特定Office程序的专家认证。
+  description: '通过取得 Microsoft Office Specialist: Excel Expert 认证，证明您具有充分利用 Excel 所需的技能。'
 uid: certification.mos-excel-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: 获得Microsoft Office Specialist (MOS) 认证证明您具备充分利用 Office 所需的高级技能：特定Office程序的专家认证。
-subTitle: 证明您获得特定 Office 程序的 Microsoft Office 专员 (MOS) 认证，具备充分利用 Office 所需的技能。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  通过取得 Microsoft Office Specialist 认证：Excel Expert 认证，证明您具有充分利用 Excel 所需的技能。该证书展示了针对各种特殊目的和情况创建、管理和分发专业电子表格的能力。
+
+  获得此认证的个人拥有大约 150 个小时的教学经验和产品实践经验，已在行业专家层面证明其能力，并准备进入职场。他们可以展示如何以专家水平正确使用 Excel 的主要功能，并可以独立完成任务。
+subTitle: '通过取得 Microsoft Office Specialist: Excel Expert 认证，证明您具有充分利用 Excel 所需的技能。'
 levels:
 - advanced
 skills:
-- 管理工作簿选项和设置
+- 管理工作薄选项和设置
 - 管理和格式化数据
 - 创建高级公式和宏
 - 管理高级图表和表格
@@ -27,12 +32,13 @@ resources:
 - title: Microsoft培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重新考试
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证支持
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

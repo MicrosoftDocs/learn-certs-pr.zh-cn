@@ -2,16 +2,18 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Azure AI Engineers使用认知服务，机器学习和知识挖掘来构建和实现涉及自然语言处理，语音，计算机视觉，机器人和代理的Microsoft AI解决方案。'
+  description: 'Azure AI Engineers 使用认知服务、机器学习和知识挖掘来构建和实现涉及自然语言处理，语音，计算机视觉，机器人和代理的 Microsoft AI 解决方案。'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure AI Engineers使用认知服务，机器学习和知识挖掘来构建和实现涉及自然语言处理，语音，计算机视觉，机器人和代理的Microsoft AI解决方案。
-subTitle: Azure AI Engineers使用认知服务，机器学习和知识挖掘来构建和实现涉及自然语言处理，语音，计算机视觉，机器人和代理的Microsoft AI解决方案。
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Azure AI Engineers 使用认知服务、机器学习和知识挖掘来构建和实现涉及自然语言处理、语音、计算机视觉、机器人和代理的 Microsoft AI 解决方案。
+subTitle: Azure AI Engineers 使用认知服务、机器学习和知识挖掘来构建和实现涉及自然语言处理、语音、计算机视觉、机器人和代理的 Microsoft AI 解决方案。
 levels:
 - intermediate
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 分析解决方案要求
 - 设计 AI 解决方案
 - 实施和监控 AI 解决方案
@@ -36,6 +38,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure AI Engineer Associate认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -51,3 +59,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

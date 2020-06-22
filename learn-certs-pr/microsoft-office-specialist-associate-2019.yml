@@ -2,18 +2,27 @@
 title: 'Microsoft Office Specialist: Associate (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Associate (Office 365 and Office 2019)'
-  description: 获得特定Microsoft Office Specialist (MOS) 认证，证明您具备充分利用 Office 所需的技能。适用于多个Office程序的助理证书。
+  description: '通过多个Office课程获得 Microsoft Office Specialist: Associate 认证以证明您具有充分利用Office所需的技能。'
 uid: certification.microsoft-office-specialist-associate-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: 获得特定Microsoft Office Specialist (MOS) 认证，证明您具备充分利用 Office 所需的技能。适用于多个Office程序的助理证书。
-subTitle: 获得特定Microsoft Office Specialist (MOS) 认证，证明您具备充分利用 Office 所需的技能。适用于多个Office程序的助理证书。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  通过多个Office课程获得 Microsoft Office Specialist&#58; Associate 认证以证明您具有充分利用Office所需的技能。
+
+  要获得 Microsoft Office 专家，请执行以下操作：Associate 认证，通过以下三个考试：
+  - [MO-100&#58; Microsoft Word (Word 和 Word 2019)](/learn/certifications/exams/mo-100)
+  - [MO-200&#58; Microsoft Excel (Excel 和 Excel 2019)](/learn/certifications/exams/mo-200)
+  - [MO-300&#58; Microsoft PowerPoint (PowerPoint 和 PowerPoint 2019)](/learn/certifications/exams/mo-300)
+  - [MO-400&#58; Microsoft Outlook (Outlook 和 Outlook 2019)](/learn/certifications/exams/mo-400)
+subTitle: '通过多个Office课程获得 Microsoft Office Specialist:  Associate 认证以证明您具有充分利用Office所需的技能。'
 levels:
 - intermediate
 skills:
-- Microsoft Word（Word 和 Word 2019）
+- Microsoft Word (Word 并 Word 2019)
 - Microsoft Excel (Excel 并 Excel 2019)
-- Microsoft PowerPoint (PowerPoint 和 PowerPoint 2019)
-- Microsoft Outlook（Outlook和Outlook 2019）（即将推出）
+- Microsoft PowerPoint (PowerPoint 并 PowerPoint 2019)
+- Microsoft Outlook（Outlook 并 Outlook 2019）
 roles:
 - business-user
 type: mos
@@ -27,12 +36,13 @@ resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重新考试
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证支持
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

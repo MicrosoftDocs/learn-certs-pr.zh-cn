@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: Upgrading Your Skills to MCSA Windows Server® 2012
+metadata:
+  title: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+  description: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+uid: course.20417
+courseNumber: '20417-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安装和配置 Windows Server 2012。
+- skill: 使用 WindowsPowerShell® 管理 Windows Server 2012。
+- skill: 在 Windows Server 2012 中管理存储。
+- skill: 实施网络服务。
+- skill: 实施远程访问
+- skill: 实施故障转移集群。
+- skill: 实施 Hyper-V™
+- skill: 使用 Hyper-V 实现故障转移群集。
+- skill: 为用户和设备实施安全的数据访问。
+- skill: 实施 Active Directory® 域服务 (AD DS)。
+- skill: 实施 Active Directory 联合身份验证服务 (AD FS)
+- skill: 监控和维护 Windows Server 2012。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-417
+summary: |-
+  在为期五天的 Microsoft 官方课程中，获得实际操作指导，并练习在 Windows Server 2012（包括 Windows Server 2012 R2）中配置和实现新功能。本课程专为希望将其现有 Windows Server 技术技能升级到 Windows Server 2012 和 Windows Server 2012 R2 的 IT 专业人员而设计。它假定您具有与 MCSA 相当的，关于以前 Windows Server 技术和技能的高水平知识：Windows Server 2008 认证。 
+
+  该课程涵盖 Windows Server 2012 和 Windows Server 2012 R2 中的新功能，包括管理、网络基础结构、存储、访问控制、虚拟化、高可用性和身份联合。涵盖的特定技术包括 Windows PowerShell、Storage Spaces 和 Internet 小型计算机系统接口 (iSCSI)、Active Directory、Hyper-V、远程访问解决方案的实施，例如 DirectAccess、VPN 和 Web 应用程序 Proxy (WAP)。该课程还涵盖故障转移集群、联合身份验证服务以及访问和信息提供和保护技术，例如动态访问控制以及与联合身份验证服务和加入工作场所网络的 Web 应用程序 Proxy 整合。 
+
+  本课程不是产品升级课程，它详细介绍了将特定环境迁移和升级到 Windows Server 2012 的注意事项。相反，本课程将使您现有的 Windows Server 知识和技能更新为 Windows Server 2012（包括 Windows Server 2012 R2）。 
+
+  本课程直接对应于 Microsoft 认证解决方案合作伙伴 (MCSA)：考试 [417&#58; Your Skills to MCSA Windows Server 2012](http://www.microsoft.com/learning/exam-70-417.aspx)，并且是为其进行实际备考的首选。该考试是具有合格升级路径的认证升级考试。此处提供了各种支持的可用升级路径的详细信息 [https://www.microsoft.com/learning/en-au/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx)  
+
+  注意&#58; 本课程中的实验基于 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 受众概况
+  本课程适用于经验丰富的 Windows Server 系统管理员的信息技术 (IT) 专业人员，他们熟悉执行 Windows Server 的日常管理和维护任务。课程将使他们的技能更新为 Windows Server 2012 和 Windows Server 2012 R2。适合该课程的对象为：
+  - 经验丰富的 Windows Server 管理员，具有 Windows Server 企业环境中工作的真实经验。
+  - 已获得 [MCSA&#58; Windows Server 2008]（http://www.microsoft.com/learning/en-gb/mcsa-windows-server-2008-certification.aspx） ，或合格的可升级认证（在[此处]可以获取其详细信息（https://www.microsoft.com/learning/windows-server-certification.aspx）），或具有同等知识的 IT 专业人员。
+  - 希望在数据中心、桌面基础结构、消息传送、协作和通信中参加 Microsoft 认证解决方案专家 (MCSE) 考试的 IT 专业人员，在为 Microsoft Certified Solutions Associate (MCSA) Windows Server 2012 认证（这是他们各自专业的先决条件）做准备时，也有兴趣参加此课程。
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备&#58;
+  - 拥有企业环境中日常 Windows Server 系统管理、管理和维护任务的经验
+  - 取得了可以参加此处列出的 70-417 升级考试的资格， [https://www.microsoft.com/learning/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx), 或具有同等知识
+
+  注&#58; 一旦满足同等知识的标准，就可以在未获得合格可升级证书的情况下参加本课程。但是，随后参加并通过 70-417 升级考试不会为考生提供 MCSA&#58; Windows Server 2012 认证。此证书升级仅适用于持有现有合格升级证书的持有者，有关详细信息，请参见上面列出的 URL。
+outlineSection: |-
+  ### 模块 1&#58; 安装和配置 Windows Server 2012
+  本模块说明了如何安装和配置 Windows Server 2012。它专门涵盖了安装的要求和注意事项以及角色安装和安装类型（例如 Server Core）。它还涵盖了执行 Windows Server 2012 的服务器的远程管理的实施和配置。
+  #### 课程
+  - 安装 Windows Server 2012 R2
+  - 配置 Windows Server 2012 R2 和 Windows Server 2012
+  - 为 Windows Server 2012 R2 和 Windows Server 2012 配置远程管理
+
+
+  #### 实验室 &#58; 安装和配置 Windows Server 2012 R2
+  学完本模块后，学生将能够&#58;
+  - 安装 Windows Server 2012 R2。
+  - 配置 Windows Server 2012 R2 和 Windows Server 2012。
+  - 为 Windows Server 2012 R2 和 Windows Server 2012 配置远程管理。
+
+
+  ### 模块 2&#58; 使用 Windows PowerShell 管理 Windows Server 2012
+  本模块说明了如何使用 Windows PowerShell 管理 Windows Server 2012。它将概述 Windows PowerShell 和 Windows PowerShell 整合式脚本环境 (ISE)。它还将在 AD DS 和常规服务器管理的范围内介绍 Windows PowerShell。
+  #### 课程
+  - Windows PowerShell 概述
+  - 使用 Windows PowerShell 管理 AD DS
+  - 使用 Windows PowerShell 管理服务器
+
+
+  #### 实验室 &#58; 使用 Windows PowerShell 管理执行 Windows Server 2012 的服务器
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows PowerShell 命令行界面。
+  - 使用 Windows PowerShell 管理 Active Directory 域服务 (AD DS)。
+  - 使用 Windows PowerShell 管理服务器。
+
+
+  ### 模块 3&#58; 在 Windows Server 2012 中管理存储
+  本模块说明如何在 Windows Server 2012 中配置存储。
+  #### 课程
+  - Windows Server 2012 中的存储功能
+  - 配置 iSCSI 存储
+  - 在 Windows Server 2012 中配置存储空间
+  - 在 Windows Server 2012 中配置 BranchCache
+
+
+  #### 实验室 &#58; 在执行 Windows Server 2012 的服务器上管理存储
+
+  #### 实验室 &#58; 实施 BranchCache
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 2012 中的存储功能。
+  - 配置 iSCSI 存储
+  - 配置存储空间。
+  - 配置 BranchCache。
+
+
+  ### 模块 4&#58; 实施网络服务
+  本模块说明了如何为域名系统 (DNS) 和动态主机配置协议 (DHCP) 配置高级功能。它还说明了如何配置 IP 地址管理 (IPAM) 和网络访问保护 (NAP)。
+  #### 课程
+  - 实施 DNS 和 DHCP 增强
+  - 实施 IPAM
+  - 使用 IPAM 管理 IP 地址空间
+  - NAP 概述
+  - 实施 NAP
+
+
+  #### 实验室 &#58; 实施网络服务
+
+  #### 实验室 &#58; 部署 NAP
+  学完本模块后，学生将能够&#58;
+  - 实施 DHCP 和 DNS 增强。
+  - 实施 IPAM。
+  - 使用 IPAM 管理 IP 地址空间。
+  - 描述 NAP。
+  - 实施 NAP。
+
+
+  ### 模块 5&#58; 实施远程访问
+  本模块介绍使用 Windows Server 2012 设置远程访问的选项。它将专门介绍 DirectAccess 和 VPN，以及在 Windows Server 2012 环境中实施和管理这些远程访问技术的注意事项，包括证书的使用。
+  #### 课程
+  - 远程访问概述
+  - 使用入门向导实施 DirectAccess
+  - 实施和管理高级 DirectAccess 基础结构
+  - 实施VPN
+
+
+  #### 实验室 &#58; 实施 DirectAccess
+  学完本模块后，学生将能够&#58;
+  - 在 Windows Server 2012 中安装和管理远程访问角色。
+  - 使用入门向导实施 DirectAccess。
+  - 实施和管理高级 DirectAccess 基础架构。
+  - 在 Windows Server 2012 中实施 VPN 访问。
+
+
+  ### 模块 6&#58; 实组故障转移集群
+  本模块说明了如何通过实施故障转移集群为网络服务和应用程序提供高可用性。它将概述所讨论的服务和应用程序的术语和技术以及特定注意事项和选项。
+  #### 课程
+  - 故障转移集群概述
+  - 实施故障转移集群
+  - 在故障转移集群上配置高可用性应用程序和服务
+  - 维护故障转移集群
+  - 实施多站点故障转移集群
+
+
+  #### 实验室 &#58; 实现故障转移群集
+  学完本模块后，学生将能够&#58;
+  - 描述容错转移丛集。
+  - 实施故障转移集群。
+  - 配置高可用性的应用程序和服务。
+  - 维护故障转移群集。
+  - 实施多站点故障转移集群。
+
+
+  ### 模块 7&#58; 实施 Hyper-V
+  本模块说明了如何安装和配置 Hyper-V 虚拟机。它将涵盖常规配置以及存储和网络注意事项。它还将涵盖 Windows Server 2012 R2 中引入的差异。
+  #### 课程
+  - 配置 Hyper-V 服务器
+  - 配置 Hyper-V 存储
+  - 配置 Hyper-V 网络
+  - 配置 Hyper-V 虚拟机
+
+
+  #### 实验室 &#58; 使用 Hyper-V 实施服务器虚拟化
+  学完本模块后，学生将能够&#58;
+  - 配置 Hyper-V 服务器。
+  - 配置 Hyper-V 存储
+  - 配置 Hyper-V 网络
+  - 配置 Hyper-V 虚拟机。
+
+
+  ### 模块 8&#58; 使用 Windows Server 2012 R2 Hyper-V 实施故障转移群集
+  本模块说明了如何在故障转移集群中部署和管理 Hyper-V 虚拟机。它将概述所涉及的技术，以及有关虚拟机的常规配置和迁移的详细信息。
+  #### 课程
+  - 概述 Hyper-V Server 2012 与故障转移群集的集成
+  - 在故障转移集群上实施 Hyper-V 虚拟机
+  - 实施 Windows Server 2012 Hyper-V 虚拟机移动
+  - 配置 Hyper-V 复本
+
+
+  #### 实验室 &#58; 使用 Windows Server 2012 Hyper-V 实施故障转移群集
+  学完本模块后，学生将能够&#58;
+  - 描述 Hyper-V 如何与故障转移群集集成。
+  - 在故障转移集群中实施 Hyper-V 虚拟机。
+  - 实施 Hyper-V 虚拟机移动。
+  - 实施 Hyper-V 复本。
+
+
+  ### 模块 9&#58; 为用户和设备实施安全数据访问
+  本模块说明了如何为用户和设备配置安全的数据访问。它将主要涵盖动态访问控制 (DAC) 和工作文件夹的实施。
+  #### 课程
+  - 动态访问控制概述
+  - 实施 DAC 组件
+  - 实施用于访问控制的DAC
+  - 实施拒绝存取时的协助
+  - 实施和管理工作文件夹
+
+
+  #### 实验室 &#58; 实施安全文档访问
+  学完本模块后，学生将能够&#58;
+  - 描述DAC。
+  - 实施 DAC 组件。
+  - 实施 DAC 用于访问控制。
+  - 实施拒绝访问时的协助。
+  - 实施和管理工作文件夹。
+
+
+  ### 模块 10&#58; 实施 AD DS
+  本模块说明如何在 Windows Server 2012 中实施 AD DS。它涵盖了域控制器的部署和配置，以及 Windows Azure Active Directory 提供的服务账户、组策略和服务的使用和实施。它还涵盖了 AD DS 的常规维护。
+  #### 课程
+  - 部署 AD DS 域控制器
+  - 配置 AD DS 域控制器
+  - 实施服务账户
+  - 在 AD DS 中实施组策略
+  - Windows Azure Active Directory 概述
+  - 维护 AD DS
+
+
+  #### 实验室 &#58; 实施 AD DS
+
+  #### 实验室 &#58; 疑难解答和维护 AD DS
+  学完本模块后，学生将能够&#58;
+  - 部署域控制器。
+  - 配置域控制器
+  - 实施服务账户。
+  - 实施组策略
+  - 描述 Windows Azure Active Directory。
+  - 维护 AD DS。
+
+
+  ### 模块 11&#58; 实施 AD FS
+  本模块说明了如何实施 AD FS 部署。它将涵盖单个组织使用场景以及企业对企业场景。该模块还涵盖了 Web 应用程序 Proxy 和加入工作场所网络。
+  #### 课程
+  - AD FS 概述
+  - 部署 AD FS
+  - 为单一组织实施 AD FS
+  - 在企业对企业同盟案例中部署 AD FS
+  - 实施 Web Application Proxy
+  - 实施加入工作场所网络
+
+
+  #### 实验室 &#58; 实施 AD FS
+  学完本模块后，学生将能够&#58;
+  - 描述 AD FS。
+  - 说明如何部署 AD FS。
+  - 说明如何为单个组织机构实施 AD FS。
+  - 说明如何在企业对企业同盟案例中部署 AD FS。
+  - 说明如何实施 Web 应用程序 Proxy。
+  - 说明如何实施加入工作场所网络。
+
+
+  ### 模块 12&#58; 监控和维护 Windows Server 2012
+  本模块说明如何监控和维护 Windows Server 2012。它将涵盖性能监控器和数据收集器集合工具以及服务器备份和恢复技术。
+  #### 课程
+  - 监控 Windows Server 2012
+  - 实施 Windows Server 备份
+  - 实施服务器和数据恢复
+
+
+  #### 实验室 &#58; 监控和维护 Windows 2012 服务器
+  学完本模块后，学生将能够&#58;
+  - 监视 Windows Server 2012
+  - 实施 Windows Server 备份。
+  - 使用 Windows Server Backup 还原数据和服务器。
+

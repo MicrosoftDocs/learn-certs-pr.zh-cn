@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals(2 Day)
+title: Microsoft Azure Fundamentals (2 Day)
 metadata:
-  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals(2 Day)'
-  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals(2 Day)'
+  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
 uid: course.az-900t00
 courseNumber: 'AZ-900T00-A'
 hoursToComplete: 48
@@ -13,14 +13,21 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   为期两天的课程将提供有关云概念的基础知识；核心 Azure 服务；安全性、隐私权、合规性和信任；以及 Azure 定价和支持。
-  说明&#58;本课程为学生提供参加动手实验的 Azure Pass 和时间。如果您不需要动手实践，请考虑AZ -900T01&#58;Microsoft Azure Fundamentals (1 天) 课程这两门课程的内容均与 AZ-900 考试目标领域一致。
+  说明：本课程为学生提供参加动手实验的 Azure Pass 和时间。如果您不需要动手实践，请考虑AZ -900T01：Microsoft Azure Fundamentals (1 天) 课程这两门课程的内容均与 AZ-900 考试目标领域一致。
 
   #### 受众概况
   本课程适合刚刚开始使用 Azure 的 IT 人员。学生希望了解我们的产品并获得有关该产品的实践经验。本课程主要使用 Azure 门户创建服务，不需要掌握脚本技能。  本课程的学生将有信心参加其他基于角色的课程和认证，例如 Azure 管理员。本课程提供 Azure Pass 和可选的实验室环境。本课程结合了讲座、演示和动手实验。  这门课程还将帮助准备某人参加 AZ -900 考试。
@@ -31,7 +38,7 @@ outlineSection: |-
   ### 模块 1&#58; 云的概念
   在本模块中，您将了解云服务，云模型的类型以及云服务的类型。
   #### 课程
-  - 为什么要使用云服务？
+  - 为什么要使用云端服务？
   - 云模型的类型
   - 云服务的类型
 
@@ -50,30 +57,30 @@ outlineSection: |-
   - Azure管理工具
 
 
-  #### 实验&#58; 演练&#58; 创建一个虚拟机
+  #### 实验室 &#58; 演练&#58; 创建一个虚拟机
 
-  #### 实验&#58; 演练&#58; 部署Azure容器实例
+  #### 实验室 &#58; 演练&#58; 部署Azure容器实例
 
-  #### 实验&#58; 演练&#58; 创建一个虚拟网络
+  #### 实验室 &#58; 演练&#58; 创建一个虚拟网络
 
-  #### 实验&#58; 演练&#58; 创建 Blob 存储
+  #### 实验室 &#58; 演练&#58; 创建 Blob 存储
 
-  #### 实验&#58; 演练&#58; 创建 SQL 数据库
+  #### 实验室 &#58; 演练&#58; 创建 SQL 数据库
 
-  #### 实验&#58; 演练&#58; 实施 Azure IoT Hub
+  #### 实验室 &#58; 演练&#58; 实施 Azure IoT Hub
 
-  #### 实验&#58; 演练&#58; 实施 Azure 函数
+  #### 实验室 &#58; 演练&#58; 实施 Azure 函数
 
-  #### 实验&#58; 演练&#58; 创建网页应用
+  #### 实验室 &#58; 演练&#58; 创建网页应用
 
-  #### 实验&#58; 演练&#58; 使用模板创建 VM
+  #### 实验室 &#58; 演练&#58; 使用模板创建 VM
 
-  #### 实验&#58;演练&#58; 使用 PowerShell 创建VM
+  #### 实验室 &#58; 演练&#58; 使用 PowerShell 创建VM
 
-  #### 实验&#58; 演练&#58; 使用 CLI 创建 VM
+  #### 实验室 &#58; 演练&#58; 使用 CLI 创建 VM
   学完本模块后，学生将能够&#58;
   - 确定核心 Azure 体系结构组件，例如区域，地理位置和资源组。
-  - 确定 Azure 核心服务和产品(例如虚拟机和存储)的使用案例。
+  - 确定 Azure 核心服务和产品（例如虚拟机和存储）的使用案例。
   - 确定 Azure 解决方案的用例，例如物联网和机器学习。
   - 确定可用的 Azure 管理工具，例如 Azure PowerShell 和 CLI。
 
@@ -89,19 +96,19 @@ outlineSection: |-
   - 隐私、合规性和数据保护标准
 
 
-  #### 实验 &#58; 演练&#58; 保护网络流量
+  #### 实验室 &#58; 演练&#58; 保护网络流量
 
-  #### 实验 &#58; 演练&#58; 实施 Azure 密钥保管库
+  #### 实验室 &#58; 演练&#58; 实施 Azure 密钥保管库
 
-  #### 实验 &#58; 演练&#58; 创建 Azure 策略
+  #### 实验室 &#58; 演练&#58; 创建 Azure 策略
 
-  #### 实验 &#58; 演练&#58; 使用 RBAC 管理访问
+  #### 实验室 &#58; 演练&#58 ;使用 RBAC 管理访问
 
-  #### 实验 &#58; 演练&#58; 管理资源锁
+  #### 实验室 &#58; 演练&#58; 管理资源锁
 
-  #### 实验 &#58; 演练&#58; 实施资源标记
+  #### 实验室 &#58; 演练&#58; 实施资源标记
 
-  #### 实验 &#58; 演练&#58; 探索信任中心
+  #### 实验室 &#58; 演练&#58; 探索信任中心
   学完本模块后，学生将能够&#58;
   - 描述虚拟网络安全连接选项，例如网络安全组。
   - 描述 Azure 身份验证和授权选项。
@@ -117,22 +124,23 @@ outlineSection: |-
   - Azure订阅
   - 计划和管理成本
   - Azure 支持选项。
-  - Azure 服务水平协议(SLA)
+  - Azure 服务水平协议（SLA）
   - Azure中的服务生命周期
 
 
-  #### 实验&#58; 演练&#58; 使用 Azure 定价计算器
+  #### 实验室 &#58; 演练&#58; 使用 Azure 定价计算器
 
-  #### 实验&#58; 演练&#58; 使用 Azure TCO 计算器
+  #### 实验室 &#58; 演练&#58; 使用 Azure TCO 计算器
 
-  #### 实验&#58; 演练&#58; 打开支持请求
+  #### 实验室 &#58; 演练&#58; 打开支持请求
 
-  #### 实验&#58; 演练&#58; 计算复合 SLA
+  #### 实验室 &#58; 演练&#58; 计算复合 SLA
 
-  #### 实验&#58; 演练&#58; 访问 Azure 预览功能
+  #### 实验室 &#58; 演练&#58; 访问 Azure 预览功能
   学完本模块后，学生将能够&#58;
   - 使用 Azure 订阅。
   - 计划和管理成本。
   - 说明 Azure 支持选项。
   - 描述 Azure SLA。
   - 说明 Azure 服务生命周期。
+

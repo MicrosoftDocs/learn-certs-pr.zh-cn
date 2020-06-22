@@ -7,13 +7,13 @@ uid: exam.az-103
 displayName: AZ-103
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的新版本 <a href="/learn/certifications/exams/az-104">AZ-104</a> 于 2020 年 4 月 2 日推出。在2020年8月31日左右此考试停用之前，您可以参加此考试。注意：考试将于美国中部标准时间晚上11&#58;59停用<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的新版本 <a href="/learn/certifications/exams/az-104">AZ-104</a> 于 2020 年 4 月 2 日推出。在2020年8月31日左右此考试停用之前，您可以参加此考试。注意&#58; 考试将于美国中部标准时间晚上11&#58;59停用<br/><br/></div>
   </div>
 
   从2019年5月1日开始，您只需通过 Exam AZ-103 即可获得此认证。这项新考试结合了 AZ-100 和 AZ-101(2019年5月1日起停用)所涵盖的技能，大部分新的考试来自 AZ-100。
 
-  此考试的考生是 Azure 管理员，他们管理跨越存储、安全性、网络和计算 Cloud 功能的 Cloud 服务。考生对整个 IT 生命周期中的每项服务都有深入的了解，并接受基础架构服务、应用程序和环境的请求。他们针对最佳性能和规模使用服务提出建议，并适当地提供、设置大小、监控和调整资源。
+  此考试的考生是Azure管理员，他们管理跨越存储、安全性、网络和计算云功能的云服务。考生对整个 IT 生命周期中的每项服务都有深入的了解，并接受基础架构服务、应用程序和环境的请求。他们针对最佳性能和规模使用服务提出建议，并适当地提供、设置大小、监控和调整资源。
 
   此考试的考生应熟练使用 PowerShell，命令行界面，Azure 门户，ARM 模板，操作系统，虚拟化，云基础架构，存储结构和网络。
 
@@ -31,8 +31,8 @@ locales:
 levels:
 - intermediate
 skills:
-- '此考试的新版本 AZ-104 于 2020 年 4 月 2 日推出。在2020年8月31日左右此考试停用之前，您可以参加此考试。请下载下面的技能测量文档，查看关于变化的信息。'
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 此考试的新版本 AZ-104 于 2020 年 4 月 2 日推出。在2020年8月31日左右此考试停用之前，您可以参加此考试。请下载下面的技能测量文档，查看关于变化的信息。
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 管理 Azure 订阅和资源 (15-20%)
 - 实施和管理存储 (15-20%)
 - 部署和管理虚拟机 (VM) (15-20%)
@@ -49,6 +49,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure

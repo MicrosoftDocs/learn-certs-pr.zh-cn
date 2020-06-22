@@ -2,18 +2,27 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
+  description: 'Azure Security Engineer 实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。'
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
-subTitle: Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Azure Security Engineer 证书的考生应具有实施安全控制和威胁防护、管理身份和访问以及保护云端和混合环境中的数据、应用程序和网络（作为端到端基础结构的一部分）等方面的主题知识。
+
+  担任此角色的职责包括维护安全状况、使用各种安全工具识别和补救漏洞、实施威胁防护以及对安全事件升级做出响应。
+
+  Azure Security Engineer 通常是一个较大的团队的一部分，该团队致力于基于云端的管理和安全性，或者作为端到端基础结构的一部分的混合环境。
+
+  参加此认证的考生应具有较强的脚本编写和自动化技能；对网络、视觉效果和云端 N 层架构的深入了解；对 Azure 的云端功能、产品和服务以及其他 Microsoft 产品和服务非常熟悉。
+subTitle: Azure Security Engineer 实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
 levels:
 - intermediate
 skills:
 - 管理身份和访问
 - 实施恶意软件防护
-- 管理安全性操作
-- 安全数据和应用程序
+- 管理安全运行
+- 安全数据和应用
 roles:
 - security-engineer
 type: role-based
@@ -37,18 +46,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-500
 resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证支持
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -23,15 +23,17 @@ locales:
 levels:
 - intermediate
 skills:
-- 准备数据(20-25%)
-- 数据建模(25-30%)
-- 可视化数据(20-25%)
-- 分析数据(10-15%)
-- 部署和维护可交付成果(10-15%)
+- 准备数据(20 -25%)
+- 数据建模(25 -30%)
+- 可视化数据(20 -25%)
+- 分析数据(10 -15%)
+- 部署和维护可交付成果(10 -15%)
 roles:
 - data-analyst
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate

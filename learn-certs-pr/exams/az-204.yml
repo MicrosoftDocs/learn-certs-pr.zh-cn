@@ -1,23 +1,23 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月18日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于 2020 年 5 月 18 日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
-  参加此考试的考生是云开发人员，他们将参与从需求定义和设计到开发、部署和维护的所有开发阶段。他们与云数据库管理员，云管理员和客户合作以实施解决方案。
+  参加该考试的考生应具有主题知识，可以在 Microsoft Azure 上设计、构建、测试和维护云端应用程序和服务。
 
-  考生应精通 Azure SDK、数据存储选项、数据连接、API、应用程序身份验证和授权、计算和容器部署、调试、性能调整和监视。
+  Azure 开发人员的职责包括参与从需求定义和设计到开发、部署和维护的云端开发、性能调整和监控的所有阶段。
   <br/>
 
-  考生必须具有1-2年的专业开发经验以及 Microsoft Azure 的使用经验。他们必须能够使用 Azure 支持的语言进行编程。
+  Azure Developer 与远程解决方案架构师、云端 DBA、云端管理员和客户端合作以实施解决方案。
 
-  <div><br/><strong>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></strong></div>
+  参加此考试的考生应具有 1-2 年的专业开发经验以及 Microsoft Azure 的经验。此外，该角色应具有使用 Azure 支持的语言进行编程的能力，并熟练使用 Azure SDK、Azure PowerShell、Azure CLI、数据存储选项、数据连接、API、应用程序身份验证和授权、计算和容器部署、调试、性能调整，以及监控。
 subTitle: '此考试衡量您完成以下技术任务的能力：开发 Azure 计算解决方案；开发 Azure 存储；实现 Azure 安全性；监控、故障排除和优化解决方案；并连接并使用 Azure 服务和第三方服务。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
@@ -29,11 +29,11 @@ providers:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年5月18日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 开发 Azure 计算解决方案(25-30%)
+- 此考试的内容于 2020 年 5 月 18 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 开发 Azure 计算解决方案(25 -30%)
 - 开发 Azure 存储 (10-15%)
 - 实现 Azure 安全性 (15-20%)
-- 监控、排除故障和优化 Azure 解决方案 (10-15%)
+- 监控、故障排除并优化 Azure 解决方案 (10-15%)
 - 连接并使用 Azure 服务和第三方服务(25-30%)
 roles:
 - developer
@@ -58,7 +58,6 @@ products:
 - azure-monitor
 - azure-policy
 - azure-portal
-- azure-redis-cache
 - azure-resource-manager
 - azure-sdks
 - azure-service-bus
@@ -66,6 +65,9 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -80,9 +82,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Azure Developer Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: 认证之旅
+  description: 探索获得 Azure Developer Associate 资格的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

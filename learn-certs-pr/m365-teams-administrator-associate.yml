@@ -6,7 +6,7 @@ metadata:
 uid: certification.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
 
@@ -34,7 +34,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Teams Administrator Associate.'
+  description: 发现培训资源以获得 Microsoft Certified：Teams Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

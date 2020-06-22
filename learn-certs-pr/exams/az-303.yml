@@ -16,16 +16,15 @@ summary: |-
 subTitle: '该考试衡量您完成以下技术任务的能力：实施和监视 Azure 基础结构；实施管理和安全解决方案；为应用程序实施解决方案；以及实施和管理数据平台。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
 levels:
 - advanced
 skills:
-- 实施和监控 Azure 基础结构(50-55%)
-- 实施管理和保护解决方案(25-30%)
-- 为应用程序实施解决方案(10-15%)
-- 实施和管理数据平台(10-15%)
+- 实施和监控 Azure 基础结构(50 -55%)
+- 实施管理和保护解决方案(25 -30%)
+- 为应用程序实施解决方案(10 -15%)
+- 实施和管理数据平台(10 -15%)
 roles:
 - solution-architect
 products:
@@ -34,9 +33,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

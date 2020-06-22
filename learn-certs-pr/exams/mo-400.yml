@@ -1,0 +1,46 @@
+### YamlMime:Examination
+title: Microsoft Outlook (Outlook and Outlook 2019)
+metadata:
+  title: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+  description: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+uid: exam.mo-400
+displayName: MO-400
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  此考试涵盖增强专业通信、创建日历和安排预约的能力。应用示例包括协调构建资源、传送市场营销消息，规划员工会议，以及分派会议活动项目。考生应演示 Outlook 主要功能的正确应用并独立完成任务。
+subTitle: 该考试评估了定制 Outlook 用户界面格式邮件内容、创建或插入图形元素以及发送和回复电子邮件以及会议要求的能力。此考试涵盖增强专业通信、创建日历和安排预约的能力。应用示例包括协调构建资源、传送市场营销消息，规划员工会议，以及分派会议活动项目。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mURd
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 管理 Outlook 设置和过程 (15-20%)
+- 管理消息(30-35%)
+- 管理工作计划(30-35%)
+- 管理联系人和任务 (15-20%)
+roles:
+- business-user
+products:
+- office
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2019
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
+

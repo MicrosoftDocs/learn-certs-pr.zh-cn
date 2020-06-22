@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Microsoft Azure Data Fundamentals (beta)'
+metadata:
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+uid: exam.dp-900
+displayName: DP-900
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  参加该考试的考生应具有核心数据概念的基本知识，以及如何使用Microsoft Azure数据服务实施这些知识。
+
+  该考试适用于开始使用云端中的数据的考生。
+
+  考生应该熟悉关系型和非关系型数据的概念，以及不同类型的数据工作负荷，例如事务性或分析性。
+
+  Azure Data Fundamentals 可用于为其他基于 Azure 角色的认证做准备，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但这不是其中任何一个的先决条件。  
+
+  <div style='font-weight&#58; bold;'><br/>注意：此项考试将于 2020 年 6 月 8 日左右推出。</div>
+subTitle: '这项考试将于 2020 年 6 月 8 日左右推出。证明您可以描述以下内容：核心数据概念；如何在 Azure 上使用关系数据；如何在 Azure 上使用非关系数据以及 Azure 上的分析工作负荷。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+locales:
+- en
+levels:
+- beginner
+skills:
+- 描述核心数据概念 (15-20%)
+- 描述如何在 Azure 上使用关系数据 (25-30%)
+- 描述如何在 Azure 上使用非关系数据 (25-30%)
+- 描述 Azure 上的分析工作负荷 (25-30%)
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.azure-data-fundamentals
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
+

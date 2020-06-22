@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
+  description: 'Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。'
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+
+  Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
 levels:
 - intermediate
@@ -26,10 +29,7 @@ products:
 - dynamics
 - dynamics-sales
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-210t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -51,20 +51,21 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate。'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Sales Functional Consultant Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
-- title: 支持认证
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

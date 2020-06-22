@@ -7,7 +7,7 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年5月28日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月28日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
   此项考试的考生是其组织的 Microsoft Teams Administrator。Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年5月28日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 此考试的内容于2020年5月28日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 规划和配置Microsoft Teams环境(45-50%)
 - 管理聊天、电话和会议(30-35%)
 - 管理团队和应用政策(20-25%)
@@ -46,7 +46,7 @@ relatedCertifications:
     uid: certification.m365-teams-administrator-associate
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Teams Administrator Associate.'
+  description: 发现培训资源以获得 Microsoft Certified：Teams Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
